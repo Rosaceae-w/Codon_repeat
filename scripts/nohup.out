@@ -1,0 +1,2655 @@
+gene name                                        ABCF1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                   814
+frameshifting position in codon repeat          shift2
+peptide hit by MS                           QMIPMLILAK
+repeatability                                     both
+type                                      out_of_frame
+Name: 0, dtype: object
+gene name                                         ABCF1
+frameshifting direction                            plus
+codon repeat                               CAGCAGCAGCAG
+position of codon in peptide(bp)                    289
+frameshifting position in codon repeat           shift0
+peptide hit by MS                          ESSSSNSNSSKK
+repeatability                                      both
+type                                       trans-frame 
+Name: 1, dtype: object
+gene name                                        ABCF1
+frameshifting direction                           plus
+codon repeat                              CAGCAGCAGCAG
+position of codon in peptide(bp)                   298
+frameshifting position in codon repeat          shift3
+peptide hit by MS                            MWMMMEKRK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 5, dtype: object
+gene name                                         ABCF1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    364
+frameshifting position in codon repeat           shift0
+peptide hit by MS                               DVMMMEK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 6, dtype: object
+gene name                                           APBB1
+frameshifting direction                              plus
+codon repeat                              GAGGAGGAGGAGGAG
+position of codon in peptide(bp)                      580
+frameshifting position in codon repeat             shift3
+peptide hit by MS                                 RMMMMKR
+repeatability                                     repeat2
+type                                         out_of_frame
+Name: 25, dtype: object
+gene name                                           APBB1
+frameshifting direction                              plus
+codon repeat                                 GATGATGATGAT
+position of codon in peptide(bp)                      586
+frameshifting position in codon repeat             shift0
+peptide hit by MS                         AAGEAEEEEEMMMMK
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 26, dtype: object
+gene name                                                ARID1A
+frameshifting direction                                    plus
+codon repeat                              CAGCAGCAGCAGCAGCAGCAG
+position of codon in peptide(bp)                           4096
+frameshifting position in codon repeat                   shift6
+peptide hit by MS                            ITSGQWMAHMALLPSGTK
+repeatability                                           repeat1
+type                                               out_of_frame
+Name: 32, dtype: object
+gene name                                        ARID1A
+frameshifting direction                           minus
+codon repeat                                  CAGCAGCAG
+position of codon in peptide(bp)                    187
+frameshifting position in codon repeat           shift1
+peptide hit by MS                          AEQAAAGGGGGR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 33, dtype: object
+gene name                                                     ATRX
+frameshifting direction                                      minus
+codon repeat                                             CCACCACCA
+position of codon in peptide(bp)                              7393
+frameshifting position in codon repeat                      shift1
+peptide hit by MS                         GMYQPVAGGMQPTTITACTTPNEK
+repeatability                                              repeat1
+type                                                  trans-frame 
+Name: 42, dtype: object
+gene name                                            ATRX
+frameshifting direction                             minus
+codon repeat                              GAGGAGGAGGAGGAG
+position of codon in peptide(bp)                     4360
+frameshifting position in codon repeat             shift4
+peptide hit by MS                           KEEEEEEEEEGGR
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 43, dtype: object
+gene name                                          BMS1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   2203
+frameshifting position in codon repeat           shift0
+peptide hit by MS                         KLIYGTVTEDNKK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 49, dtype: object
+gene name                                          BMS1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   2551
+frameshifting position in codon repeat           shift1
+peptide hit by MS                              EEIDPDEK
+repeatability                                      both
+type                                       trans-frame 
+Name: 50, dtype: object
+gene name                                        CASQ2
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                  1222
+frameshifting position in codon repeat          shift1
+peptide hit by MS                          MMMMMIILMKR
+repeatability                                     both
+type                                      out_of_frame
+Name: 73, dtype: object
+gene name                                               CASQ2
+frameshifting direction                                  plus
+codon repeat                               GATGATGATGATGATGAT
+position of codon in peptide(bp)                         1231
+frameshifting position in codon repeat                 shift0
+peptide hit by MS                         KINTEDDDEMMMMMIILMK
+repeatability                                            both
+type                                             trans-frame 
+Name: 74, dtype: object
+gene name                                               CHD4
+frameshifting direction                                 plus
+codon repeat                              AAGAAGAAGAAGAAGAAG
+position of codon in peptide(bp)                         418
+frameshifting position in codon repeat                shift0
+peptide hit by MS                               SDSEGSDYTPGR
+repeatability                                           both
+type                                            trans-frame 
+Name: 92, dtype: object
+gene name                                               CHD4
+frameshifting direction                                 plus
+codon repeat                              GAGGAGGAGGAGGAGGAG
+position of codon in peptide(bp)                         490
+frameshifting position in codon repeat                shift4
+peptide hit by MS                              EEEERRMMMMIQR
+repeatability                                        repeat1
+type                                            trans-frame 
+Name: 93, dtype: object
+gene name                                        CLNS1A
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    406
+frameshifting position in codon repeat           shift0
+peptide hit by MS                         IQMTTMEKNMMWK
+repeatability                                   repeat1
+type                                       out_of_frame
+Name: 101, dtype: object
+gene name                                       CLNS1A
+frameshifting direction                           plus
+codon repeat                                 GAAGAAGAA
+position of codon in peptide(bp)                   358
+frameshifting position in codon repeat          shift0
+peptide hit by MS                         MQMLITENDLCK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 102, dtype: object
+gene name                                          CLNS1A
+frameshifting direction                              plus
+codon repeat                                    GAAGAAGAA
+position of codon in peptide(bp)                      358
+frameshifting position in codon repeat             shift0
+peptide hit by MS                         MRIQMTTMEKNMMWK
+repeatability                                     repeat1
+type                                         out_of_frame
+Name: 103, dtype: object
+gene name                                         CLNS1A
+frameshifting direction                             plus
+codon repeat                                   GATGATGAT
+position of codon in peptide(bp)                     412
+frameshifting position in codon repeat            shift2
+peptide hit by MS                         MQMLITENDLCKFK
+repeatability                                    repeat2
+type                                        out_of_frame
+Name: 104, dtype: object
+gene name                                          CTR9
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   3010
+frameshifting position in codon repeat           shift0
+peptide hit by MS                           GEEGSMMMKQK
+repeatability                                      both
+type                                       trans-frame 
+Name: 117, dtype: object
+gene name                                          CTR9
+frameshifting direction                            plus
+codon repeat                               GGTGGTGGTGGT
+position of codon in peptide(bp)                   2818
+frameshifting position in codon repeat           shift3
+peptide hit by MS                             GGGVDGVLR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 118, dtype: object
+gene name                                          DHX9
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   1891
+frameshifting position in codon repeat           shift1
+peptide hit by MS                         DMMVVRMMMQIAT
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 130, dtype: object
+gene name                                                           DHX9
+frameshifting direction                                             plus
+codon repeat                                                   GCTGCTGCT
+position of codon in peptide(bp)                                    2752
+frameshifting position in codon repeat                            shift1
+peptide hit by MS                         MMIMGCIFYVGDAICTIALLPAFQSLSSMK
+repeatability                                                    repeat2
+type                                                        trans-frame 
+Name: 131, dtype: object
+gene name                                             EIF5B
+frameshifting direction                                plus
+codon repeat                                      GATGATGAT
+position of codon in peptide(bp)                       1888
+frameshifting position in codon repeat               shift1
+peptide hit by MS                         KEMSSDSEYDSDMIGLK
+repeatability                                       repeat2
+type                                           trans-frame 
+Name: 151, dtype: object
+gene name                                              EIF5B
+frameshifting direction                                 plus
+codon repeat                                 GATGATGATGATGAT
+position of codon in peptide(bp)                         511
+frameshifting position in codon repeat                shift0
+peptide hit by MS                         VEMYSGSMMMMILTNFLK
+repeatability                                        repeat2
+type                                            trans-frame 
+Name: 152, dtype: object
+gene name                                             EPPK1
+frameshifting direction                               minus
+codon repeat                                      GCCGCCGCC
+position of codon in peptide(bp)                      12790
+frameshifting position in codon repeat               shift1
+peptide hit by MS                         EGQGEGETQEAAAATAR
+repeatability                                          both
+type                                           trans-frame 
+Name: 160, dtype: object
+gene name                                                          EPPK1
+frameshifting direction                                            minus
+codon repeat                              GCCGCCGCCGCCGCCGCCGCCGCCGCCGCC
+position of codon in peptide(bp)                                    7993
+frameshifting position in codon repeat                            shift8
+peptide hit by MS                                    EGQGEGETQEAAAAAAAAR
+repeatability                                                       both
+type                                                        trans-frame 
+Name: 161, dtype: object
+gene name                                              FOXO3
+frameshifting direction                                 plus
+codon repeat                                       GAGGAGGAG
+position of codon in peptide(bp)                         280
+frameshifting position in codon repeat                shift2
+peptide hit by MS                         PSGETAADSMIPEERTMK
+repeatability                                           both
+type                                            trans-frame 
+Name: 183, dtype: object
+gene name                                            FOXO3
+frameshifting direction                               plus
+codon repeat                                  GGCGGCGGCGGC
+position of codon in peptide(bp)                       346
+frameshifting position in codon repeat              shift3
+peptide hit by MS                         RAGSAMAIGGGAGAAR
+repeatability                                      repeat1
+type                                          trans-frame 
+Name: 184, dtype: object
+gene name                                             FSIP2
+frameshifting direction                                plus
+codon repeat                                      GATGATGAT
+position of codon in peptide(bp)                      18598
+frameshifting position in codon repeat               shift2
+peptide hit by MS                         KYMTIQYVETLQSDDMK
+repeatability                                       repeat1
+type                                           trans-frame 
+Name: 185, dtype: object
+gene name                                         FSIP2
+frameshifting direction                            plus
+codon repeat                                  TCATCATCA
+position of codon in peptide(bp)                   3949
+frameshifting position in codon repeat           shift1
+peptide hit by MS                             SSISHQFIR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 186, dtype: object
+gene name                                        HECTD1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   1615
+frameshifting position in codon repeat           shift2
+peptide hit by MS                             DEENVMSPK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 208, dtype: object
+gene name                                        HECTD1
+frameshifting direction                           minus
+codon repeat                                  GCTGCTGCT
+position of codon in peptide(bp)                    826
+frameshifting position in codon repeat           shift2
+peptide hit by MS                           RMAACWWYCFR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 209, dtype: object
+gene name                                                      HRC
+frameshifting direction                                       plus
+codon repeat                              GAGGAGGAGGAGGAGGAGGAGGAG
+position of codon in peptide(bp)                               700
+frameshifting position in codon repeat                      shift7
+peptide hit by MS                            MRMSQMDTIIMAPATGTKAMK
+repeatability                                              repeat2
+type                                                  out_of_frame
+Name: 219, dtype: object
+gene name                                          HRC
+frameshifting direction                           plus
+codon repeat                              GATGATGATGAT
+position of codon in peptide(bp)                  1024
+frameshifting position in codon repeat          shift3
+peptide hit by MS                          MRMCPLNVGTR
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 220, dtype: object
+gene name                                          HRC
+frameshifting direction                           plus
+codon repeat                              GATGATGATGAT
+position of codon in peptide(bp)                  1024
+frameshifting position in codon repeat          shift3
+peptide hit by MS                          MRMCPLNVGTR
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 220, dtype: object
+gene name                                                                        HRC
+frameshifting direction                                                         plus
+codon repeat                              GATGATGATGATGATGATGATGATGATGATGATGATGATGAT
+position of codon in peptide(bp)                                                 880
+frameshifting position in codon repeat                                       shift13
+peptide hit by MS                                                MSQMDTIIATPATGTEAMK
+repeatability                                                                repeat1
+type                                                                    out_of_frame
+Name: 221, dtype: object
+gene name                                       HSP90B1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                    982
+frameshifting position in codon repeat           shift0
+peptide hit by MS                           KTETVEEPMEK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 223, dtype: object
+gene name                                         HSP90B1
+frameshifting direction                              plus
+codon repeat                              GAAGAAGAAGAAGAA
+position of codon in peptide(bp)                     1048
+frameshifting position in codon repeat             shift3
+peptide hit by MS                          EESDDEAAVEEEEK
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 224, dtype: object
+gene name                                                      IL16
+frameshifting direction                                        plus
+codon repeat                                              GAAGAAGAA
+position of codon in peptide(bp)                               2338
+frameshifting position in codon repeat                       shift1
+peptide hit by MS                         NLFSPIMSENHGHMPLQPNASLNEK
+repeatability                                               repeat1
+type                                                   trans-frame 
+Name: 232, dtype: object
+gene name                                               IL16
+frameshifting direction                                 plus
+codon repeat                              TCCTCCTCCTCCTCCTCC
+position of codon in peptide(bp)                        2608
+frameshifting position in codon repeat                shift4
+peptide hit by MS                           ASSSSPPSGRESAPLK
+repeatability                                           both
+type                                            trans-frame 
+Name: 233, dtype: object
+gene name                                          IRF2BPL
+frameshifting direction                               plus
+codon repeat                               GCCGCCGCCGCCGCC
+position of codon in peptide(bp)                       400
+frameshifting position in codon repeat              shift4
+peptide hit by MS                         EAAAAAAAAAAAAAPR
+repeatability                                      repeat2
+type                                          trans-frame 
+Name: 239, dtype: object
+gene name                                         IRF2BPL
+frameshifting direction                             minus
+codon repeat                              GCGGCGGCGGCGGCG
+position of codon in peptide(bp)                      364
+frameshifting position in codon repeat             shift1
+peptide hit by MS                          KEAGGGGGSSGGRR
+repeatability                                     repeat2
+type                                         trans-frame 
+Name: 240, dtype: object
+gene name                                         LEO1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                  1834
+frameshifting position in codon repeat          shift2
+peptide hit by MS                             EKQKMMIK
+repeatability                                  repeat2
+type                                      out_of_frame
+Name: 254, dtype: object
+gene name                                          LEO1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   2029
+frameshifting position in codon repeat           shift0
+peptide hit by MS                               KAEMMIK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 255, dtype: object
+gene name                                         MLLT4
+frameshifting direction                           minus
+codon repeat                                  GAGGAGGAG
+position of codon in peptide(bp)                   4258
+frameshifting position in codon repeat           shift1
+peptide hit by MS                          RLEGGAGEEAER
+repeatability                                      both
+type                                       trans-frame 
+Name: 285, dtype: object
+gene name                                              MLLT4
+frameshifting direction                                 plus
+codon repeat                              GAGGAGGAGGAGGAGGAG
+position of codon in peptide(bp)                        5182
+frameshifting position in codon repeat                shift3
+peptide hit by MS                                  FVAYNEEER
+repeatability                                        repeat1
+type                                            trans-frame 
+Name: 286, dtype: object
+gene name                                        NOLC1
+frameshifting direction                           plus
+codon repeat                              GAGGAGGAGGAG
+position of codon in peptide(bp)                   382
+frameshifting position in codon repeat          shift3
+peptide hit by MS                            SPVMMMMRR
+repeatability                                  repeat2
+type                                      out_of_frame
+Name: 321, dtype: object
+gene name                                           NOLC1
+frameshifting direction                              plus
+codon repeat                                    TCTTCTTCT
+position of codon in peptide(bp)                     1663
+frameshifting position in codon repeat             shift2
+peptide hit by MS                         KAESSNSSSLMTPVR
+repeatability                                        both
+type                                         trans-frame 
+Name: 322, dtype: object
+gene name                                            NPM1
+frameshifting direction                              plus
+codon repeat                                    GATGATGAT
+position of codon in peptide(bp)                      601
+frameshifting position in codon repeat             shift2
+peptide hit by MS                         MMMKMMMMMILMMRK
+repeatability                                        both
+type                                         out_of_frame
+Name: 328, dtype: object
+gene name                                          NPM1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    616
+frameshifting position in codon repeat           shift2
+peptide hit by MS                         MMMMMILMMRKLK
+repeatability                                   repeat2
+type                                       out_of_frame
+Name: 329, dtype: object
+gene name                                                 PAPPA
+frameshifting direction                                   minus
+codon repeat                              CCGCCGCCGCCGCCGCCGCCG
+position of codon in peptide(bp)                            283
+frameshifting position in codon repeat                   shift3
+peptide hit by MS                                  RASPPPAAAAGR
+repeatability                                           repeat1
+type                                               trans-frame 
+Name: 343, dtype: object
+gene name                                         PAPPA
+frameshifting direction                           minus
+codon repeat                                  CGGCGGCGG
+position of codon in peptide(bp)                    328
+frameshifting position in codon repeat           shift1
+peptide hit by MS                           RAAAAAGGEGR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 344, dtype: object
+gene name                                          PLEC
+frameshifting direction                            plus
+codon repeat                                  CAGCAGCAG
+position of codon in peptide(bp)                   4339
+frameshifting position in codon repeat           shift2
+peptide hit by MS                            EEAAVDAQQR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 366, dtype: object
+gene name                                               PLEC
+frameshifting direction                                minus
+codon repeat                                       CTGCTGCTG
+position of codon in peptide(bp)                         592
+frameshifting position in codon repeat                shift1
+peptide hit by MS                         LAAVVAANGGGVPGPAMR
+repeatability                                           both
+type                                            trans-frame 
+Name: 367, dtype: object
+gene name                                               PLEC
+frameshifting direction                                minus
+codon repeat                                       CTGCTGCTG
+position of codon in peptide(bp)                         592
+frameshifting position in codon repeat                shift1
+peptide hit by MS                         LAAVVAANGGGVPGPAMR
+repeatability                                           both
+type                                            trans-frame 
+Name: 367, dtype: object
+gene name                                          PLEC
+frameshifting direction                           minus
+codon repeat                                  GAGGAGGAG
+position of codon in peptide(bp)                   6784
+frameshifting position in codon repeat           shift2
+peptide hit by MS                          SQVEEGALLGAR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 368, dtype: object
+gene name                                       PRPF40A
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   2884
+frameshifting position in codon repeat           shift2
+peptide hit by MS                          RTLLEQLDDINK
+repeatability                                      both
+type                                       trans-frame 
+Name: 383, dtype: object
+gene name                                         PRPF40A
+frameshifting direction                              plus
+codon repeat                                 GATGATGATGAT
+position of codon in peptide(bp)                     2521
+frameshifting position in codon repeat             shift0
+peptide hit by MS                         RSGSDSMMMIAIQRK
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 384, dtype: object
+gene name                                               RBM28
+frameshifting direction                                  plus
+codon repeat                                        GATGATGAT
+position of codon in peptide(bp)                          805
+frameshifting position in codon repeat                 shift2
+peptide hit by MS                         EEEDMEEEENDDMTMMMMK
+repeatability                                         repeat2
+type                                             trans-frame 
+Name: 409, dtype: object
+gene name                                                 RBM28
+frameshifting direction                                    plus
+codon repeat                                       GATGATGATGAT
+position of codon in peptide(bp)                            811
+frameshifting position in codon repeat                   shift0
+peptide hit by MS                         REEEDMEEEENDDDDMMMMKK
+repeatability                                           repeat1
+type                                               trans-frame 
+Name: 410, dtype: object
+gene name                                                 RYR1
+frameshifting direction                                  minus
+codon repeat                                         ATGATGATG
+position of codon in peptide(bp)                         12079
+frameshifting position in codon repeat                  shift1
+peptide hit by MS                         LWDAVVGFLHVFAHMDDEAR
+repeatability                                          repeat2
+type                                              trans-frame 
+Name: 422, dtype: object
+gene name                                          RYR1
+frameshifting direction                           minus
+codon repeat                                  GAGGAGGAG
+position of codon in peptide(bp)                   8590
+frameshifting position in codon repeat           shift1
+peptide hit by MS                             EGEGGEDGK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 423, dtype: object
+gene name                                                SAMD1
+frameshifting direction                                  minus
+codon repeat                                      CCGCCGCCGCCG
+position of codon in peptide(bp)                           466
+frameshifting position in codon repeat                  shift3
+peptide hit by MS                         AGAAGGGGGGSRPSGAHPSR
+repeatability                                          repeat1
+type                                              out_of_frame
+Name: 425, dtype: object
+gene name                                        SAMD1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                   619
+frameshifting position in codon repeat          shift2
+peptide hit by MS                             MMMKMKMK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 426, dtype: object
+gene name                                        SAMD1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                   619
+frameshifting position in codon repeat          shift2
+peptide hit by MS                             MMMKMKMK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 426, dtype: object
+gene name                                         SAMD1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    781
+frameshifting position in codon repeat           shift1
+peptide hit by MS                           KEEEEDMMKMK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 427, dtype: object
+gene name                                         SDAD1
+frameshifting direction                            plus
+codon repeat                                  ATGATGATG
+position of codon in peptide(bp)                   2059
+frameshifting position in codon repeat           shift2
+peptide hit by MS                            KNFMMCGIAR
+repeatability                                      both
+type                                       trans-frame 
+Name: 436, dtype: object
+gene name                                            SDAD1
+frameshifting direction                               plus
+codon repeat                                     GAGGAGGAG
+position of codon in peptide(bp)                      1612
+frameshifting position in codon repeat              shift1
+peptide hit by MS                         RMLMVNGLMCNTLPMK
+repeatability                                      repeat2
+type                                          out_of_frame
+Name: 437, dtype: object
+gene name                                           SF1
+frameshifting direction                           minus
+codon repeat                               CCACCACCACCA
+position of codon in peptide(bp)                   1384
+frameshifting position in codon repeat           shift2
+peptide hit by MS                         VHPAMATAAGGCR
+repeatability                                      both
+type                                       out_of_frame
+Name: 451, dtype: object
+gene name                                             SF1
+frameshifting direction                             minus
+codon repeat                              CCGCCGCCGCCGCCG
+position of codon in peptide(bp)                     1546
+frameshifting position in codon repeat             shift4
+peptide hit by MS                                YDDYHHER
+repeatability                                        both
+type                                         out_of_frame
+Name: 452, dtype: object
+gene name                                        SFSWAP
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   1915
+frameshifting position in codon repeat           shift1
+peptide hit by MS                            KLDDDSDMMK
+repeatability                                      both
+type                                       trans-frame 
+Name: 464, dtype: object
+gene name                                        SFSWAP
+frameshifting direction                            plus
+codon repeat                               GATGATGATGAT
+position of codon in peptide(bp)                    958
+frameshifting position in codon repeat           shift0
+peptide hit by MS                         SGVSSDNEMMMMK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 465, dtype: object
+gene name                                        SPTBN4
+frameshifting direction                           minus
+codon repeat                                  GCGGCGGCG
+position of codon in peptide(bp)                   2383
+frameshifting position in codon repeat           shift1
+peptide hit by MS                             LEEAGGAAR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 484, dtype: object
+gene name                                       SPTBN4
+frameshifting direction                           plus
+codon repeat                                 GCGGCGGCG
+position of codon in peptide(bp)                  6769
+frameshifting position in codon repeat          shift2
+peptide hit by MS                          TGPGRGTGPSR
+repeatability                                  repeat2
+type                                      out_of_frame
+Name: 485, dtype: object
+gene name                                        SUPT6H
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    205
+frameshifting position in codon repeat           shift1
+peptide hit by MS                           FVEEEDMMRRR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 498, dtype: object
+gene name                                       SUPT6H
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                   397
+frameshifting position in codon repeat          shift2
+peptide hit by MS                            TMTRRNMAR
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 499, dtype: object
+gene name                                                 SV2A
+frameshifting direction                                   plus
+codon repeat                                         GAGGAGGAG
+position of codon in peptide(bp)                           253
+frameshifting position in codon repeat                  shift2
+peptide hit by MS                         MMMMTSLLPVMVITEEKGPR
+repeatability                                             both
+type                                              out_of_frame
+Name: 500, dtype: object
+gene name                                                  SV2A
+frameshifting direction                                    plus
+codon repeat                                       GATGATGATGAT
+position of codon in peptide(bp)                            256
+frameshifting position in codon repeat                   shift0
+peptide hit by MS                         FEEEMMMMTSLLPVMVITEEK
+repeatability                                           repeat1
+type                                               trans-frame 
+Name: 501, dtype: object
+gene name                                           TCERG1
+frameshifting direction                               plus
+codon repeat                                     CCTCCTCCT
+position of codon in peptide(bp)                       427
+frameshifting position in codon repeat              shift2
+peptide hit by MS                         RPPFMPPPMSSMPPLR
+repeatability                                      repeat2
+type                                          trans-frame 
+Name: 515, dtype: object
+gene name                                        TCERG1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   1642
+frameshifting position in codon repeat           shift2
+peptide hit by MS                             KEEEMTEEK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 516, dtype: object
+gene name                                         TCOF1
+frameshifting direction                            plus
+codon repeat                                  AGCAGCAGC
+position of codon in peptide(bp)                   2989
+frameshifting position in codon repeat           shift0
+peptide hit by MS                           KASMAGAAAAR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 518, dtype: object
+gene name                                           TCOF1
+frameshifting direction                             minus
+codon repeat                              AAGAAGAAGAAGAAG
+position of codon in peptide(bp)                     4069
+frameshifting position in codon repeat             shift0
+peptide hit by MS                              SQEEEEAGGR
+repeatability                                     repeat2
+type                                         trans-frame 
+Name: 519, dtype: object
+gene name                                         TNRC6B
+frameshifting direction                             plus
+codon repeat                                   AACAACAAC
+position of codon in peptide(bp)                    2209
+frameshifting position in codon repeat            shift1
+peptide hit by MS                         NTTLPTGEEDDLMK
+repeatability                                    repeat1
+type                                        trans-frame 
+Name: 536, dtype: object
+gene name                                                   TNRC6B
+frameshifting direction                                      minus
+codon repeat                              CAGCAGCAGCAGCAGCAGCAGCAG
+position of codon in peptide(bp)                              3736
+frameshifting position in codon repeat                      shift2
+peptide hit by MS                                MVSALQQAAAAAAEAAR
+repeatability                                              repeat2
+type                                                  trans-frame 
+Name: 537, dtype: object
+gene name                                                   TNRC6B
+frameshifting direction                                       plus
+codon repeat                              CAGCAGCAGCAGCAGCAGCAGCAG
+position of codon in peptide(bp)                              3751
+frameshifting position in codon repeat                      shift7
+peptide hit by MS                                    MVSALQQQQQQQR
+repeatability                                              repeat2
+type                                                  trans-frame 
+Name: 538, dtype: object
+gene name                                          TNRC6B
+frameshifting direction                              plus
+codon repeat                                    GGAGGAGGA
+position of codon in peptide(bp)                     2230
+frameshifting position in codon repeat             shift1
+peptide hit by MS                         NNNSSNWGEDDLMKR
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 539, dtype: object
+gene name                                          TPR
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                  5965
+frameshifting position in codon repeat          shift2
+peptide hit by MS                            MRKMMMMMK
+repeatability                                     both
+type                                      out_of_frame
+Name: 543, dtype: object
+gene name                                               TPR
+frameshifting direction                                plus
+codon repeat                                GATGATGATGATGAT
+position of codon in peptide(bp)                       6022
+frameshifting position in codon repeat               shift4
+peptide hit by MS                         ELVVPMAMMVMKLMMLR
+repeatability                                       repeat1
+type                                           out_of_frame
+Name: 544, dtype: object
+gene name                                           TTN
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                  29302
+frameshifting position in codon repeat           shift2
+peptide hit by MS                              RAYTLEEK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 557, dtype: object
+gene name                                           TTN
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                  31333
+frameshifting position in codon repeat           shift2
+peptide hit by MS                              VEENTELK
+repeatability                                      both
+type                                       trans-frame 
+Name: 558, dtype: object
+gene name                                           TTN
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                  31333
+frameshifting position in codon repeat           shift2
+peptide hit by MS                              VEENTELK
+repeatability                                      both
+type                                       trans-frame 
+Name: 558, dtype: object
+gene name                                          TTN
+frameshifting direction                           plus
+codon repeat                                 GAAGAAGAA
+position of codon in peptide(bp)                 29302
+frameshifting position in codon repeat          shift2
+peptide hit by MS                          NMRNMKNMIIK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 559, dtype: object
+gene name                                          UBR4
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   8299
+frameshifting position in codon repeat           shift0
+peptide hit by MS                          KDDDDMMMQMRK
+repeatability                                      both
+type                                       trans-frame 
+Name: 571, dtype: object
+gene name                                         UBR4
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                  8287
+frameshifting position in codon repeat          shift0
+peptide hit by MS                          MMMTMMMQMRK
+repeatability                                     both
+type                                      out_of_frame
+Name: 572, dtype: object
+human genes (NP only, longest per gene): 19458
+genes with usable location: 19325, skipped (bad location): 33, skipped (unplaced scaffold): 100
+0.6882154793002887 0.6455152712527786
+PhyloP: 119 pairs, mean frameshift=0.6455, mean control=0.6882, median frameshift=0.6919, median control=0.7716
+paired t-test p=0.0653; Wilcoxon (frameshift < control) p=0.00647
+Traceback (most recent call last):
+  File "/home/ruoxiwan/codon_repeat/scripts/conservation.py", line 373, in <module>
+    plt.savefig(f'../figure/PhyloP/violinplot_{TRACK}_optionB_5.png', dpi=300)
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/pyplot.py", line 1228, in savefig
+    res = fig.savefig(*args, **kwargs)  # type: ignore[func-returns-value]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/figure.py", line 3395, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/backend_bases.py", line 2204, in print_figure
+    result = print_method(
+             ^^^^^^^^^^^^^
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/backend_bases.py", line 2054, in <lambda>
+    print_method = functools.wraps(meth)(lambda *args, **kwargs: meth(
+                                                                 ^^^^^
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/backends/backend_agg.py", line 496, in print_png
+    self._print_pil(filename_or_obj, "png", pil_kwargs, metadata)
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/backends/backend_agg.py", line 445, in _print_pil
+    mpl.image.imsave(
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/image.py", line 1676, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/PIL/Image.py", line 2563, in save
+    fp = builtins.open(filename, "w+b")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/ruoxiwan/codon_repeat/figure/PhyloP/violinplot_phylop_optionB_5.png'
+gene name                                        ABCF1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                   814
+frameshifting position in codon repeat          shift2
+peptide hit by MS                           QMIPMLILAK
+repeatability                                     both
+type                                      out_of_frame
+Name: 0, dtype: object
+gene name                                         ABCF1
+frameshifting direction                            plus
+codon repeat                               CAGCAGCAGCAG
+position of codon in peptide(bp)                    289
+frameshifting position in codon repeat           shift0
+peptide hit by MS                          ESSSSNSNSSKK
+repeatability                                      both
+type                                       trans-frame 
+Name: 1, dtype: object
+gene name                                        ABCF1
+frameshifting direction                           plus
+codon repeat                              CAGCAGCAGCAG
+position of codon in peptide(bp)                   298
+frameshifting position in codon repeat          shift3
+peptide hit by MS                            MWMMMEKRK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 5, dtype: object
+gene name                                         ABCF1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    364
+frameshifting position in codon repeat           shift0
+peptide hit by MS                               DVMMMEK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 6, dtype: object
+gene name                                           APBB1
+frameshifting direction                              plus
+codon repeat                              GAGGAGGAGGAGGAG
+position of codon in peptide(bp)                      580
+frameshifting position in codon repeat             shift3
+peptide hit by MS                                 RMMMMKR
+repeatability                                     repeat2
+type                                         out_of_frame
+Name: 25, dtype: object
+gene name                                           APBB1
+frameshifting direction                              plus
+codon repeat                                 GATGATGATGAT
+position of codon in peptide(bp)                      586
+frameshifting position in codon repeat             shift0
+peptide hit by MS                         AAGEAEEEEEMMMMK
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 26, dtype: object
+gene name                                                ARID1A
+frameshifting direction                                    plus
+codon repeat                              CAGCAGCAGCAGCAGCAGCAG
+position of codon in peptide(bp)                           4096
+frameshifting position in codon repeat                   shift6
+peptide hit by MS                            ITSGQWMAHMALLPSGTK
+repeatability                                           repeat1
+type                                               out_of_frame
+Name: 32, dtype: object
+gene name                                        ARID1A
+frameshifting direction                           minus
+codon repeat                                  CAGCAGCAG
+position of codon in peptide(bp)                    187
+frameshifting position in codon repeat           shift1
+peptide hit by MS                          AEQAAAGGGGGR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 33, dtype: object
+gene name                                                     ATRX
+frameshifting direction                                      minus
+codon repeat                                             CCACCACCA
+position of codon in peptide(bp)                              7393
+frameshifting position in codon repeat                      shift1
+peptide hit by MS                         GMYQPVAGGMQPTTITACTTPNEK
+repeatability                                              repeat1
+type                                                  trans-frame 
+Name: 42, dtype: object
+gene name                                            ATRX
+frameshifting direction                             minus
+codon repeat                              GAGGAGGAGGAGGAG
+position of codon in peptide(bp)                     4360
+frameshifting position in codon repeat             shift4
+peptide hit by MS                           KEEEEEEEEEGGR
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 43, dtype: object
+gene name                                          BMS1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   2203
+frameshifting position in codon repeat           shift0
+peptide hit by MS                         KLIYGTVTEDNKK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 49, dtype: object
+gene name                                          BMS1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   2551
+frameshifting position in codon repeat           shift1
+peptide hit by MS                              EEIDPDEK
+repeatability                                      both
+type                                       trans-frame 
+Name: 50, dtype: object
+gene name                                        CASQ2
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                  1222
+frameshifting position in codon repeat          shift1
+peptide hit by MS                          MMMMMIILMKR
+repeatability                                     both
+type                                      out_of_frame
+Name: 73, dtype: object
+gene name                                               CASQ2
+frameshifting direction                                  plus
+codon repeat                               GATGATGATGATGATGAT
+position of codon in peptide(bp)                         1231
+frameshifting position in codon repeat                 shift0
+peptide hit by MS                         KINTEDDDEMMMMMIILMK
+repeatability                                            both
+type                                             trans-frame 
+Name: 74, dtype: object
+gene name                                               CHD4
+frameshifting direction                                 plus
+codon repeat                              AAGAAGAAGAAGAAGAAG
+position of codon in peptide(bp)                         418
+frameshifting position in codon repeat                shift0
+peptide hit by MS                               SDSEGSDYTPGR
+repeatability                                           both
+type                                            trans-frame 
+Name: 92, dtype: object
+gene name                                               CHD4
+frameshifting direction                                 plus
+codon repeat                              GAGGAGGAGGAGGAGGAG
+position of codon in peptide(bp)                         490
+frameshifting position in codon repeat                shift4
+peptide hit by MS                              EEEERRMMMMIQR
+repeatability                                        repeat1
+type                                            trans-frame 
+Name: 93, dtype: object
+gene name                                        CLNS1A
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    406
+frameshifting position in codon repeat           shift0
+peptide hit by MS                         IQMTTMEKNMMWK
+repeatability                                   repeat1
+type                                       out_of_frame
+Name: 101, dtype: object
+gene name                                       CLNS1A
+frameshifting direction                           plus
+codon repeat                                 GAAGAAGAA
+position of codon in peptide(bp)                   358
+frameshifting position in codon repeat          shift0
+peptide hit by MS                         MQMLITENDLCK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 102, dtype: object
+gene name                                          CLNS1A
+frameshifting direction                              plus
+codon repeat                                    GAAGAAGAA
+position of codon in peptide(bp)                      358
+frameshifting position in codon repeat             shift0
+peptide hit by MS                         MRIQMTTMEKNMMWK
+repeatability                                     repeat1
+type                                         out_of_frame
+Name: 103, dtype: object
+gene name                                         CLNS1A
+frameshifting direction                             plus
+codon repeat                                   GATGATGAT
+position of codon in peptide(bp)                     412
+frameshifting position in codon repeat            shift2
+peptide hit by MS                         MQMLITENDLCKFK
+repeatability                                    repeat2
+type                                        out_of_frame
+Name: 104, dtype: object
+gene name                                          CTR9
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   3010
+frameshifting position in codon repeat           shift0
+peptide hit by MS                           GEEGSMMMKQK
+repeatability                                      both
+type                                       trans-frame 
+Name: 117, dtype: object
+gene name                                          CTR9
+frameshifting direction                            plus
+codon repeat                               GGTGGTGGTGGT
+position of codon in peptide(bp)                   2818
+frameshifting position in codon repeat           shift3
+peptide hit by MS                             GGGVDGVLR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 118, dtype: object
+gene name                                          DHX9
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   1891
+frameshifting position in codon repeat           shift1
+peptide hit by MS                         DMMVVRMMMQIAT
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 130, dtype: object
+gene name                                                           DHX9
+frameshifting direction                                             plus
+codon repeat                                                   GCTGCTGCT
+position of codon in peptide(bp)                                    2752
+frameshifting position in codon repeat                            shift1
+peptide hit by MS                         MMIMGCIFYVGDAICTIALLPAFQSLSSMK
+repeatability                                                    repeat2
+type                                                        trans-frame 
+Name: 131, dtype: object
+gene name                                             EIF5B
+frameshifting direction                                plus
+codon repeat                                      GATGATGAT
+position of codon in peptide(bp)                       1888
+frameshifting position in codon repeat               shift1
+peptide hit by MS                         KEMSSDSEYDSDMIGLK
+repeatability                                       repeat2
+type                                           trans-frame 
+Name: 151, dtype: object
+gene name                                              EIF5B
+frameshifting direction                                 plus
+codon repeat                                 GATGATGATGATGAT
+position of codon in peptide(bp)                         511
+frameshifting position in codon repeat                shift0
+peptide hit by MS                         VEMYSGSMMMMILTNFLK
+repeatability                                        repeat2
+type                                            trans-frame 
+Name: 152, dtype: object
+gene name                                             EPPK1
+frameshifting direction                               minus
+codon repeat                                      GCCGCCGCC
+position of codon in peptide(bp)                      12790
+frameshifting position in codon repeat               shift1
+peptide hit by MS                         EGQGEGETQEAAAATAR
+repeatability                                          both
+type                                           trans-frame 
+Name: 160, dtype: object
+gene name                                                          EPPK1
+frameshifting direction                                            minus
+codon repeat                              GCCGCCGCCGCCGCCGCCGCCGCCGCCGCC
+position of codon in peptide(bp)                                    7993
+frameshifting position in codon repeat                            shift8
+peptide hit by MS                                    EGQGEGETQEAAAAAAAAR
+repeatability                                                       both
+type                                                        trans-frame 
+Name: 161, dtype: object
+gene name                                              FOXO3
+frameshifting direction                                 plus
+codon repeat                                       GAGGAGGAG
+position of codon in peptide(bp)                         280
+frameshifting position in codon repeat                shift2
+peptide hit by MS                         PSGETAADSMIPEERTMK
+repeatability                                           both
+type                                            trans-frame 
+Name: 183, dtype: object
+gene name                                            FOXO3
+frameshifting direction                               plus
+codon repeat                                  GGCGGCGGCGGC
+position of codon in peptide(bp)                       346
+frameshifting position in codon repeat              shift3
+peptide hit by MS                         RAGSAMAIGGGAGAAR
+repeatability                                      repeat1
+type                                          trans-frame 
+Name: 184, dtype: object
+gene name                                             FSIP2
+frameshifting direction                                plus
+codon repeat                                      GATGATGAT
+position of codon in peptide(bp)                      18598
+frameshifting position in codon repeat               shift2
+peptide hit by MS                         KYMTIQYVETLQSDDMK
+repeatability                                       repeat1
+type                                           trans-frame 
+Name: 185, dtype: object
+gene name                                         FSIP2
+frameshifting direction                            plus
+codon repeat                                  TCATCATCA
+position of codon in peptide(bp)                   3949
+frameshifting position in codon repeat           shift1
+peptide hit by MS                             SSISHQFIR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 186, dtype: object
+gene name                                        HECTD1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   1615
+frameshifting position in codon repeat           shift2
+peptide hit by MS                             DEENVMSPK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 208, dtype: object
+gene name                                        HECTD1
+frameshifting direction                           minus
+codon repeat                                  GCTGCTGCT
+position of codon in peptide(bp)                    826
+frameshifting position in codon repeat           shift2
+peptide hit by MS                           RMAACWWYCFR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 209, dtype: object
+gene name                                                      HRC
+frameshifting direction                                       plus
+codon repeat                              GAGGAGGAGGAGGAGGAGGAGGAG
+position of codon in peptide(bp)                               700
+frameshifting position in codon repeat                      shift7
+peptide hit by MS                            MRMSQMDTIIMAPATGTKAMK
+repeatability                                              repeat2
+type                                                  out_of_frame
+Name: 219, dtype: object
+gene name                                          HRC
+frameshifting direction                           plus
+codon repeat                              GATGATGATGAT
+position of codon in peptide(bp)                  1024
+frameshifting position in codon repeat          shift3
+peptide hit by MS                          MRMCPLNVGTR
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 220, dtype: object
+gene name                                          HRC
+frameshifting direction                           plus
+codon repeat                              GATGATGATGAT
+position of codon in peptide(bp)                  1024
+frameshifting position in codon repeat          shift3
+peptide hit by MS                          MRMCPLNVGTR
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 220, dtype: object
+gene name                                                                        HRC
+frameshifting direction                                                         plus
+codon repeat                              GATGATGATGATGATGATGATGATGATGATGATGATGATGAT
+position of codon in peptide(bp)                                                 880
+frameshifting position in codon repeat                                       shift13
+peptide hit by MS                                                MSQMDTIIATPATGTEAMK
+repeatability                                                                repeat1
+type                                                                    out_of_frame
+Name: 221, dtype: object
+gene name                                       HSP90B1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                    982
+frameshifting position in codon repeat           shift0
+peptide hit by MS                           KTETVEEPMEK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 223, dtype: object
+gene name                                         HSP90B1
+frameshifting direction                              plus
+codon repeat                              GAAGAAGAAGAAGAA
+position of codon in peptide(bp)                     1048
+frameshifting position in codon repeat             shift3
+peptide hit by MS                          EESDDEAAVEEEEK
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 224, dtype: object
+gene name                                                      IL16
+frameshifting direction                                        plus
+codon repeat                                              GAAGAAGAA
+position of codon in peptide(bp)                               2338
+frameshifting position in codon repeat                       shift1
+peptide hit by MS                         NLFSPIMSENHGHMPLQPNASLNEK
+repeatability                                               repeat1
+type                                                   trans-frame 
+Name: 232, dtype: object
+gene name                                               IL16
+frameshifting direction                                 plus
+codon repeat                              TCCTCCTCCTCCTCCTCC
+position of codon in peptide(bp)                        2608
+frameshifting position in codon repeat                shift4
+peptide hit by MS                           ASSSSPPSGRESAPLK
+repeatability                                           both
+type                                            trans-frame 
+Name: 233, dtype: object
+gene name                                          IRF2BPL
+frameshifting direction                               plus
+codon repeat                               GCCGCCGCCGCCGCC
+position of codon in peptide(bp)                       400
+frameshifting position in codon repeat              shift4
+peptide hit by MS                         EAAAAAAAAAAAAAPR
+repeatability                                      repeat2
+type                                          trans-frame 
+Name: 239, dtype: object
+gene name                                         IRF2BPL
+frameshifting direction                             minus
+codon repeat                              GCGGCGGCGGCGGCG
+position of codon in peptide(bp)                      364
+frameshifting position in codon repeat             shift1
+peptide hit by MS                          KEAGGGGGSSGGRR
+repeatability                                     repeat2
+type                                         trans-frame 
+Name: 240, dtype: object
+gene name                                         LEO1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                  1834
+frameshifting position in codon repeat          shift2
+peptide hit by MS                             EKQKMMIK
+repeatability                                  repeat2
+type                                      out_of_frame
+Name: 254, dtype: object
+gene name                                          LEO1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   2029
+frameshifting position in codon repeat           shift0
+peptide hit by MS                               KAEMMIK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 255, dtype: object
+gene name                                         MLLT4
+frameshifting direction                           minus
+codon repeat                                  GAGGAGGAG
+position of codon in peptide(bp)                   4258
+frameshifting position in codon repeat           shift1
+peptide hit by MS                          RLEGGAGEEAER
+repeatability                                      both
+type                                       trans-frame 
+Name: 285, dtype: object
+gene name                                              MLLT4
+frameshifting direction                                 plus
+codon repeat                              GAGGAGGAGGAGGAGGAG
+position of codon in peptide(bp)                        5182
+frameshifting position in codon repeat                shift3
+peptide hit by MS                                  FVAYNEEER
+repeatability                                        repeat1
+type                                            trans-frame 
+Name: 286, dtype: object
+gene name                                        NOLC1
+frameshifting direction                           plus
+codon repeat                              GAGGAGGAGGAG
+position of codon in peptide(bp)                   382
+frameshifting position in codon repeat          shift3
+peptide hit by MS                            SPVMMMMRR
+repeatability                                  repeat2
+type                                      out_of_frame
+Name: 321, dtype: object
+gene name                                           NOLC1
+frameshifting direction                              plus
+codon repeat                                    TCTTCTTCT
+position of codon in peptide(bp)                     1663
+frameshifting position in codon repeat             shift2
+peptide hit by MS                         KAESSNSSSLMTPVR
+repeatability                                        both
+type                                         trans-frame 
+Name: 322, dtype: object
+gene name                                            NPM1
+frameshifting direction                              plus
+codon repeat                                    GATGATGAT
+position of codon in peptide(bp)                      601
+frameshifting position in codon repeat             shift2
+peptide hit by MS                         MMMKMMMMMILMMRK
+repeatability                                        both
+type                                         out_of_frame
+Name: 328, dtype: object
+gene name                                          NPM1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    616
+frameshifting position in codon repeat           shift2
+peptide hit by MS                         MMMMMILMMRKLK
+repeatability                                   repeat2
+type                                       out_of_frame
+Name: 329, dtype: object
+gene name                                                 PAPPA
+frameshifting direction                                   minus
+codon repeat                              CCGCCGCCGCCGCCGCCGCCG
+position of codon in peptide(bp)                            283
+frameshifting position in codon repeat                   shift3
+peptide hit by MS                                  RASPPPAAAAGR
+repeatability                                           repeat1
+type                                               trans-frame 
+Name: 343, dtype: object
+gene name                                         PAPPA
+frameshifting direction                           minus
+codon repeat                                  CGGCGGCGG
+position of codon in peptide(bp)                    328
+frameshifting position in codon repeat           shift1
+peptide hit by MS                           RAAAAAGGEGR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 344, dtype: object
+gene name                                          PLEC
+frameshifting direction                            plus
+codon repeat                                  CAGCAGCAG
+position of codon in peptide(bp)                   4339
+frameshifting position in codon repeat           shift2
+peptide hit by MS                            EEAAVDAQQR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 366, dtype: object
+gene name                                               PLEC
+frameshifting direction                                minus
+codon repeat                                       CTGCTGCTG
+position of codon in peptide(bp)                         592
+frameshifting position in codon repeat                shift1
+peptide hit by MS                         LAAVVAANGGGVPGPAMR
+repeatability                                           both
+type                                            trans-frame 
+Name: 367, dtype: object
+gene name                                               PLEC
+frameshifting direction                                minus
+codon repeat                                       CTGCTGCTG
+position of codon in peptide(bp)                         592
+frameshifting position in codon repeat                shift1
+peptide hit by MS                         LAAVVAANGGGVPGPAMR
+repeatability                                           both
+type                                            trans-frame 
+Name: 367, dtype: object
+gene name                                          PLEC
+frameshifting direction                           minus
+codon repeat                                  GAGGAGGAG
+position of codon in peptide(bp)                   6784
+frameshifting position in codon repeat           shift2
+peptide hit by MS                          SQVEEGALLGAR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 368, dtype: object
+gene name                                       PRPF40A
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   2884
+frameshifting position in codon repeat           shift2
+peptide hit by MS                          RTLLEQLDDINK
+repeatability                                      both
+type                                       trans-frame 
+Name: 383, dtype: object
+gene name                                         PRPF40A
+frameshifting direction                              plus
+codon repeat                                 GATGATGATGAT
+position of codon in peptide(bp)                     2521
+frameshifting position in codon repeat             shift0
+peptide hit by MS                         RSGSDSMMMIAIQRK
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 384, dtype: object
+gene name                                               RBM28
+frameshifting direction                                  plus
+codon repeat                                        GATGATGAT
+position of codon in peptide(bp)                          805
+frameshifting position in codon repeat                 shift2
+peptide hit by MS                         EEEDMEEEENDDMTMMMMK
+repeatability                                         repeat2
+type                                             trans-frame 
+Name: 409, dtype: object
+gene name                                                 RBM28
+frameshifting direction                                    plus
+codon repeat                                       GATGATGATGAT
+position of codon in peptide(bp)                            811
+frameshifting position in codon repeat                   shift0
+peptide hit by MS                         REEEDMEEEENDDDDMMMMKK
+repeatability                                           repeat1
+type                                               trans-frame 
+Name: 410, dtype: object
+gene name                                                 RYR1
+frameshifting direction                                  minus
+codon repeat                                         ATGATGATG
+position of codon in peptide(bp)                         12079
+frameshifting position in codon repeat                  shift1
+peptide hit by MS                         LWDAVVGFLHVFAHMDDEAR
+repeatability                                          repeat2
+type                                              trans-frame 
+Name: 422, dtype: object
+gene name                                          RYR1
+frameshifting direction                           minus
+codon repeat                                  GAGGAGGAG
+position of codon in peptide(bp)                   8590
+frameshifting position in codon repeat           shift1
+peptide hit by MS                             EGEGGEDGK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 423, dtype: object
+gene name                                                SAMD1
+frameshifting direction                                  minus
+codon repeat                                      CCGCCGCCGCCG
+position of codon in peptide(bp)                           466
+frameshifting position in codon repeat                  shift3
+peptide hit by MS                         AGAAGGGGGGSRPSGAHPSR
+repeatability                                          repeat1
+type                                              out_of_frame
+Name: 425, dtype: object
+gene name                                        SAMD1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                   619
+frameshifting position in codon repeat          shift2
+peptide hit by MS                             MMMKMKMK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 426, dtype: object
+gene name                                        SAMD1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                   619
+frameshifting position in codon repeat          shift2
+peptide hit by MS                             MMMKMKMK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 426, dtype: object
+gene name                                         SAMD1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    781
+frameshifting position in codon repeat           shift1
+peptide hit by MS                           KEEEEDMMKMK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 427, dtype: object
+gene name                                         SDAD1
+frameshifting direction                            plus
+codon repeat                                  ATGATGATG
+position of codon in peptide(bp)                   2059
+frameshifting position in codon repeat           shift2
+peptide hit by MS                            KNFMMCGIAR
+repeatability                                      both
+type                                       trans-frame 
+Name: 436, dtype: object
+gene name                                            SDAD1
+frameshifting direction                               plus
+codon repeat                                     GAGGAGGAG
+position of codon in peptide(bp)                      1612
+frameshifting position in codon repeat              shift1
+peptide hit by MS                         RMLMVNGLMCNTLPMK
+repeatability                                      repeat2
+type                                          out_of_frame
+Name: 437, dtype: object
+gene name                                           SF1
+frameshifting direction                           minus
+codon repeat                               CCACCACCACCA
+position of codon in peptide(bp)                   1384
+frameshifting position in codon repeat           shift2
+peptide hit by MS                         VHPAMATAAGGCR
+repeatability                                      both
+type                                       out_of_frame
+Name: 451, dtype: object
+gene name                                             SF1
+frameshifting direction                             minus
+codon repeat                              CCGCCGCCGCCGCCG
+position of codon in peptide(bp)                     1546
+frameshifting position in codon repeat             shift4
+peptide hit by MS                                YDDYHHER
+repeatability                                        both
+type                                         out_of_frame
+Name: 452, dtype: object
+gene name                                        SFSWAP
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   1915
+frameshifting position in codon repeat           shift1
+peptide hit by MS                            KLDDDSDMMK
+repeatability                                      both
+type                                       trans-frame 
+Name: 464, dtype: object
+gene name                                        SFSWAP
+frameshifting direction                            plus
+codon repeat                               GATGATGATGAT
+position of codon in peptide(bp)                    958
+frameshifting position in codon repeat           shift0
+peptide hit by MS                         SGVSSDNEMMMMK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 465, dtype: object
+gene name                                        SPTBN4
+frameshifting direction                           minus
+codon repeat                                  GCGGCGGCG
+position of codon in peptide(bp)                   2383
+frameshifting position in codon repeat           shift1
+peptide hit by MS                             LEEAGGAAR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 484, dtype: object
+gene name                                       SPTBN4
+frameshifting direction                           plus
+codon repeat                                 GCGGCGGCG
+position of codon in peptide(bp)                  6769
+frameshifting position in codon repeat          shift2
+peptide hit by MS                          TGPGRGTGPSR
+repeatability                                  repeat2
+type                                      out_of_frame
+Name: 485, dtype: object
+gene name                                        SUPT6H
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    205
+frameshifting position in codon repeat           shift1
+peptide hit by MS                           FVEEEDMMRRR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 498, dtype: object
+gene name                                       SUPT6H
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                   397
+frameshifting position in codon repeat          shift2
+peptide hit by MS                            TMTRRNMAR
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 499, dtype: object
+gene name                                                 SV2A
+frameshifting direction                                   plus
+codon repeat                                         GAGGAGGAG
+position of codon in peptide(bp)                           253
+frameshifting position in codon repeat                  shift2
+peptide hit by MS                         MMMMTSLLPVMVITEEKGPR
+repeatability                                             both
+type                                              out_of_frame
+Name: 500, dtype: object
+gene name                                                  SV2A
+frameshifting direction                                    plus
+codon repeat                                       GATGATGATGAT
+position of codon in peptide(bp)                            256
+frameshifting position in codon repeat                   shift0
+peptide hit by MS                         FEEEMMMMTSLLPVMVITEEK
+repeatability                                           repeat1
+type                                               trans-frame 
+Name: 501, dtype: object
+gene name                                           TCERG1
+frameshifting direction                               plus
+codon repeat                                     CCTCCTCCT
+position of codon in peptide(bp)                       427
+frameshifting position in codon repeat              shift2
+peptide hit by MS                         RPPFMPPPMSSMPPLR
+repeatability                                      repeat2
+type                                          trans-frame 
+Name: 515, dtype: object
+gene name                                        TCERG1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   1642
+frameshifting position in codon repeat           shift2
+peptide hit by MS                             KEEEMTEEK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 516, dtype: object
+gene name                                         TCOF1
+frameshifting direction                            plus
+codon repeat                                  AGCAGCAGC
+position of codon in peptide(bp)                   2989
+frameshifting position in codon repeat           shift0
+peptide hit by MS                           KASMAGAAAAR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 518, dtype: object
+gene name                                           TCOF1
+frameshifting direction                             minus
+codon repeat                              AAGAAGAAGAAGAAG
+position of codon in peptide(bp)                     4069
+frameshifting position in codon repeat             shift0
+peptide hit by MS                              SQEEEEAGGR
+repeatability                                     repeat2
+type                                         trans-frame 
+Name: 519, dtype: object
+gene name                                         TNRC6B
+frameshifting direction                             plus
+codon repeat                                   AACAACAAC
+position of codon in peptide(bp)                    2209
+frameshifting position in codon repeat            shift1
+peptide hit by MS                         NTTLPTGEEDDLMK
+repeatability                                    repeat1
+type                                        trans-frame 
+Name: 536, dtype: object
+gene name                                                   TNRC6B
+frameshifting direction                                      minus
+codon repeat                              CAGCAGCAGCAGCAGCAGCAGCAG
+position of codon in peptide(bp)                              3736
+frameshifting position in codon repeat                      shift2
+peptide hit by MS                                MVSALQQAAAAAAEAAR
+repeatability                                              repeat2
+type                                                  trans-frame 
+Name: 537, dtype: object
+gene name                                                   TNRC6B
+frameshifting direction                                       plus
+codon repeat                              CAGCAGCAGCAGCAGCAGCAGCAG
+position of codon in peptide(bp)                              3751
+frameshifting position in codon repeat                      shift7
+peptide hit by MS                                    MVSALQQQQQQQR
+repeatability                                              repeat2
+type                                                  trans-frame 
+Name: 538, dtype: object
+gene name                                          TNRC6B
+frameshifting direction                              plus
+codon repeat                                    GGAGGAGGA
+position of codon in peptide(bp)                     2230
+frameshifting position in codon repeat             shift1
+peptide hit by MS                         NNNSSNWGEDDLMKR
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 539, dtype: object
+gene name                                          TPR
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                  5965
+frameshifting position in codon repeat          shift2
+peptide hit by MS                            MRKMMMMMK
+repeatability                                     both
+type                                      out_of_frame
+Name: 543, dtype: object
+gene name                                               TPR
+frameshifting direction                                plus
+codon repeat                                GATGATGATGATGAT
+position of codon in peptide(bp)                       6022
+frameshifting position in codon repeat               shift4
+peptide hit by MS                         ELVVPMAMMVMKLMMLR
+repeatability                                       repeat1
+type                                           out_of_frame
+Name: 544, dtype: object
+gene name                                           TTN
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                  29302
+frameshifting position in codon repeat           shift2
+peptide hit by MS                              RAYTLEEK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 557, dtype: object
+gene name                                           TTN
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                  31333
+frameshifting position in codon repeat           shift2
+peptide hit by MS                              VEENTELK
+repeatability                                      both
+type                                       trans-frame 
+Name: 558, dtype: object
+gene name                                           TTN
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                  31333
+frameshifting position in codon repeat           shift2
+peptide hit by MS                              VEENTELK
+repeatability                                      both
+type                                       trans-frame 
+Name: 558, dtype: object
+gene name                                          TTN
+frameshifting direction                           plus
+codon repeat                                 GAAGAAGAA
+position of codon in peptide(bp)                 29302
+frameshifting position in codon repeat          shift2
+peptide hit by MS                          NMRNMKNMIIK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 559, dtype: object
+gene name                                          UBR4
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   8299
+frameshifting position in codon repeat           shift0
+peptide hit by MS                          KDDDDMMMQMRK
+repeatability                                      both
+type                                       trans-frame 
+Name: 571, dtype: object
+gene name                                         UBR4
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                  8287
+frameshifting position in codon repeat          shift0
+peptide hit by MS                          MMMTMMMQMRK
+repeatability                                     both
+type                                      out_of_frame
+Name: 572, dtype: object
+human genes (NP only, longest per gene): 19458
+genes with usable location: 19325, skipped (bad location): 33, skipped (unplaced scaffold): 100
+0.6882154793002887 0.6455152712527786
+PhyloP: 119 pairs, mean frameshift=0.6455, mean control=0.6882, median frameshift=0.6919, median control=0.7716
+paired t-test p=0.0653; Wilcoxon (frameshift < control) p=0.00647
+Traceback (most recent call last):
+  File "/home/ruoxiwan/codon_repeat/scripts/conservation.py", line 373, in <module>
+    plt.savefig(f'../figure/PhyloP/violinplot_{TRACK}_optionB_5.png', dpi=300)
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/pyplot.py", line 1228, in savefig
+    res = fig.savefig(*args, **kwargs)  # type: ignore[func-returns-value]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/figure.py", line 3395, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/backend_bases.py", line 2204, in print_figure
+    result = print_method(
+             ^^^^^^^^^^^^^
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/backend_bases.py", line 2054, in <lambda>
+    print_method = functools.wraps(meth)(lambda *args, **kwargs: meth(
+                                                                 ^^^^^
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/backends/backend_agg.py", line 496, in print_png
+    self._print_pil(filename_or_obj, "png", pil_kwargs, metadata)
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/backends/backend_agg.py", line 445, in _print_pil
+    mpl.image.imsave(
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/matplotlib/image.py", line 1676, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/home/ruoxiwan/Miniconda3/envs/bedtools/lib/python3.11/site-packages/PIL/Image.py", line 2563, in save
+    fp = builtins.open(filename, "w+b")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/ruoxiwan/codon_repeat/figure/PhyloP/violinplot_phylop_optionB_5.png'
+gene name                                        ABCF1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                   814
+frameshifting position in codon repeat          shift2
+peptide hit by MS                           QMIPMLILAK
+repeatability                                     both
+type                                      out_of_frame
+Name: 0, dtype: object
+gene name                                         ABCF1
+frameshifting direction                            plus
+codon repeat                               CAGCAGCAGCAG
+position of codon in peptide(bp)                    289
+frameshifting position in codon repeat           shift0
+peptide hit by MS                          ESSSSNSNSSKK
+repeatability                                      both
+type                                       trans-frame 
+Name: 1, dtype: object
+gene name                                        ABCF1
+frameshifting direction                           plus
+codon repeat                              CAGCAGCAGCAG
+position of codon in peptide(bp)                   298
+frameshifting position in codon repeat          shift3
+peptide hit by MS                            MWMMMEKRK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 5, dtype: object
+gene name                                         ABCF1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    364
+frameshifting position in codon repeat           shift0
+peptide hit by MS                               DVMMMEK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 6, dtype: object
+gene name                                           APBB1
+frameshifting direction                              plus
+codon repeat                              GAGGAGGAGGAGGAG
+position of codon in peptide(bp)                      580
+frameshifting position in codon repeat             shift3
+peptide hit by MS                                 RMMMMKR
+repeatability                                     repeat2
+type                                         out_of_frame
+Name: 25, dtype: object
+gene name                                           APBB1
+frameshifting direction                              plus
+codon repeat                                 GATGATGATGAT
+position of codon in peptide(bp)                      586
+frameshifting position in codon repeat             shift0
+peptide hit by MS                         AAGEAEEEEEMMMMK
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 26, dtype: object
+gene name                                                ARID1A
+frameshifting direction                                    plus
+codon repeat                              CAGCAGCAGCAGCAGCAGCAG
+position of codon in peptide(bp)                           4096
+frameshifting position in codon repeat                   shift6
+peptide hit by MS                            ITSGQWMAHMALLPSGTK
+repeatability                                           repeat1
+type                                               out_of_frame
+Name: 32, dtype: object
+gene name                                        ARID1A
+frameshifting direction                           minus
+codon repeat                                  CAGCAGCAG
+position of codon in peptide(bp)                    187
+frameshifting position in codon repeat           shift1
+peptide hit by MS                          AEQAAAGGGGGR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 33, dtype: object
+gene name                                                     ATRX
+frameshifting direction                                      minus
+codon repeat                                             CCACCACCA
+position of codon in peptide(bp)                              7393
+frameshifting position in codon repeat                      shift1
+peptide hit by MS                         GMYQPVAGGMQPTTITACTTPNEK
+repeatability                                              repeat1
+type                                                  trans-frame 
+Name: 42, dtype: object
+gene name                                            ATRX
+frameshifting direction                             minus
+codon repeat                              GAGGAGGAGGAGGAG
+position of codon in peptide(bp)                     4360
+frameshifting position in codon repeat             shift4
+peptide hit by MS                           KEEEEEEEEEGGR
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 43, dtype: object
+gene name                                          BMS1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   2203
+frameshifting position in codon repeat           shift0
+peptide hit by MS                         KLIYGTVTEDNKK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 49, dtype: object
+gene name                                          BMS1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   2551
+frameshifting position in codon repeat           shift1
+peptide hit by MS                              EEIDPDEK
+repeatability                                      both
+type                                       trans-frame 
+Name: 50, dtype: object
+gene name                                        CASQ2
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                  1222
+frameshifting position in codon repeat          shift1
+peptide hit by MS                          MMMMMIILMKR
+repeatability                                     both
+type                                      out_of_frame
+Name: 73, dtype: object
+gene name                                               CASQ2
+frameshifting direction                                  plus
+codon repeat                               GATGATGATGATGATGAT
+position of codon in peptide(bp)                         1231
+frameshifting position in codon repeat                 shift0
+peptide hit by MS                         KINTEDDDEMMMMMIILMK
+repeatability                                            both
+type                                             trans-frame 
+Name: 74, dtype: object
+gene name                                               CHD4
+frameshifting direction                                 plus
+codon repeat                              AAGAAGAAGAAGAAGAAG
+position of codon in peptide(bp)                         418
+frameshifting position in codon repeat                shift0
+peptide hit by MS                               SDSEGSDYTPGR
+repeatability                                           both
+type                                            trans-frame 
+Name: 92, dtype: object
+gene name                                               CHD4
+frameshifting direction                                 plus
+codon repeat                              GAGGAGGAGGAGGAGGAG
+position of codon in peptide(bp)                         490
+frameshifting position in codon repeat                shift4
+peptide hit by MS                              EEEERRMMMMIQR
+repeatability                                        repeat1
+type                                            trans-frame 
+Name: 93, dtype: object
+gene name                                        CLNS1A
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    406
+frameshifting position in codon repeat           shift0
+peptide hit by MS                         IQMTTMEKNMMWK
+repeatability                                   repeat1
+type                                       out_of_frame
+Name: 101, dtype: object
+gene name                                       CLNS1A
+frameshifting direction                           plus
+codon repeat                                 GAAGAAGAA
+position of codon in peptide(bp)                   358
+frameshifting position in codon repeat          shift0
+peptide hit by MS                         MQMLITENDLCK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 102, dtype: object
+gene name                                          CLNS1A
+frameshifting direction                              plus
+codon repeat                                    GAAGAAGAA
+position of codon in peptide(bp)                      358
+frameshifting position in codon repeat             shift0
+peptide hit by MS                         MRIQMTTMEKNMMWK
+repeatability                                     repeat1
+type                                         out_of_frame
+Name: 103, dtype: object
+gene name                                         CLNS1A
+frameshifting direction                             plus
+codon repeat                                   GATGATGAT
+position of codon in peptide(bp)                     412
+frameshifting position in codon repeat            shift2
+peptide hit by MS                         MQMLITENDLCKFK
+repeatability                                    repeat2
+type                                        out_of_frame
+Name: 104, dtype: object
+gene name                                          CTR9
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   3010
+frameshifting position in codon repeat           shift0
+peptide hit by MS                           GEEGSMMMKQK
+repeatability                                      both
+type                                       trans-frame 
+Name: 117, dtype: object
+gene name                                          CTR9
+frameshifting direction                            plus
+codon repeat                               GGTGGTGGTGGT
+position of codon in peptide(bp)                   2818
+frameshifting position in codon repeat           shift3
+peptide hit by MS                             GGGVDGVLR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 118, dtype: object
+gene name                                          DHX9
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   1891
+frameshifting position in codon repeat           shift1
+peptide hit by MS                         DMMVVRMMMQIAT
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 130, dtype: object
+gene name                                                           DHX9
+frameshifting direction                                             plus
+codon repeat                                                   GCTGCTGCT
+position of codon in peptide(bp)                                    2752
+frameshifting position in codon repeat                            shift1
+peptide hit by MS                         MMIMGCIFYVGDAICTIALLPAFQSLSSMK
+repeatability                                                    repeat2
+type                                                        trans-frame 
+Name: 131, dtype: object
+gene name                                             EIF5B
+frameshifting direction                                plus
+codon repeat                                      GATGATGAT
+position of codon in peptide(bp)                       1888
+frameshifting position in codon repeat               shift1
+peptide hit by MS                         KEMSSDSEYDSDMIGLK
+repeatability                                       repeat2
+type                                           trans-frame 
+Name: 151, dtype: object
+gene name                                              EIF5B
+frameshifting direction                                 plus
+codon repeat                                 GATGATGATGATGAT
+position of codon in peptide(bp)                         511
+frameshifting position in codon repeat                shift0
+peptide hit by MS                         VEMYSGSMMMMILTNFLK
+repeatability                                        repeat2
+type                                            trans-frame 
+Name: 152, dtype: object
+gene name                                             EPPK1
+frameshifting direction                               minus
+codon repeat                                      GCCGCCGCC
+position of codon in peptide(bp)                      12790
+frameshifting position in codon repeat               shift1
+peptide hit by MS                         EGQGEGETQEAAAATAR
+repeatability                                          both
+type                                           trans-frame 
+Name: 160, dtype: object
+gene name                                                          EPPK1
+frameshifting direction                                            minus
+codon repeat                              GCCGCCGCCGCCGCCGCCGCCGCCGCCGCC
+position of codon in peptide(bp)                                    7993
+frameshifting position in codon repeat                            shift8
+peptide hit by MS                                    EGQGEGETQEAAAAAAAAR
+repeatability                                                       both
+type                                                        trans-frame 
+Name: 161, dtype: object
+gene name                                              FOXO3
+frameshifting direction                                 plus
+codon repeat                                       GAGGAGGAG
+position of codon in peptide(bp)                         280
+frameshifting position in codon repeat                shift2
+peptide hit by MS                         PSGETAADSMIPEERTMK
+repeatability                                           both
+type                                            trans-frame 
+Name: 183, dtype: object
+gene name                                            FOXO3
+frameshifting direction                               plus
+codon repeat                                  GGCGGCGGCGGC
+position of codon in peptide(bp)                       346
+frameshifting position in codon repeat              shift3
+peptide hit by MS                         RAGSAMAIGGGAGAAR
+repeatability                                      repeat1
+type                                          trans-frame 
+Name: 184, dtype: object
+gene name                                             FSIP2
+frameshifting direction                                plus
+codon repeat                                      GATGATGAT
+position of codon in peptide(bp)                      18598
+frameshifting position in codon repeat               shift2
+peptide hit by MS                         KYMTIQYVETLQSDDMK
+repeatability                                       repeat1
+type                                           trans-frame 
+Name: 185, dtype: object
+gene name                                         FSIP2
+frameshifting direction                            plus
+codon repeat                                  TCATCATCA
+position of codon in peptide(bp)                   3949
+frameshifting position in codon repeat           shift1
+peptide hit by MS                             SSISHQFIR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 186, dtype: object
+gene name                                        HECTD1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   1615
+frameshifting position in codon repeat           shift2
+peptide hit by MS                             DEENVMSPK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 208, dtype: object
+gene name                                        HECTD1
+frameshifting direction                           minus
+codon repeat                                  GCTGCTGCT
+position of codon in peptide(bp)                    826
+frameshifting position in codon repeat           shift2
+peptide hit by MS                           RMAACWWYCFR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 209, dtype: object
+gene name                                                      HRC
+frameshifting direction                                       plus
+codon repeat                              GAGGAGGAGGAGGAGGAGGAGGAG
+position of codon in peptide(bp)                               700
+frameshifting position in codon repeat                      shift7
+peptide hit by MS                            MRMSQMDTIIMAPATGTKAMK
+repeatability                                              repeat2
+type                                                  out_of_frame
+Name: 219, dtype: object
+gene name                                          HRC
+frameshifting direction                           plus
+codon repeat                              GATGATGATGAT
+position of codon in peptide(bp)                  1024
+frameshifting position in codon repeat          shift3
+peptide hit by MS                          MRMCPLNVGTR
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 220, dtype: object
+gene name                                          HRC
+frameshifting direction                           plus
+codon repeat                              GATGATGATGAT
+position of codon in peptide(bp)                  1024
+frameshifting position in codon repeat          shift3
+peptide hit by MS                          MRMCPLNVGTR
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 220, dtype: object
+gene name                                                                        HRC
+frameshifting direction                                                         plus
+codon repeat                              GATGATGATGATGATGATGATGATGATGATGATGATGATGAT
+position of codon in peptide(bp)                                                 880
+frameshifting position in codon repeat                                       shift13
+peptide hit by MS                                                MSQMDTIIATPATGTEAMK
+repeatability                                                                repeat1
+type                                                                    out_of_frame
+Name: 221, dtype: object
+gene name                                       HSP90B1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                    982
+frameshifting position in codon repeat           shift0
+peptide hit by MS                           KTETVEEPMEK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 223, dtype: object
+gene name                                         HSP90B1
+frameshifting direction                              plus
+codon repeat                              GAAGAAGAAGAAGAA
+position of codon in peptide(bp)                     1048
+frameshifting position in codon repeat             shift3
+peptide hit by MS                          EESDDEAAVEEEEK
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 224, dtype: object
+gene name                                                      IL16
+frameshifting direction                                        plus
+codon repeat                                              GAAGAAGAA
+position of codon in peptide(bp)                               2338
+frameshifting position in codon repeat                       shift1
+peptide hit by MS                         NLFSPIMSENHGHMPLQPNASLNEK
+repeatability                                               repeat1
+type                                                   trans-frame 
+Name: 232, dtype: object
+gene name                                               IL16
+frameshifting direction                                 plus
+codon repeat                              TCCTCCTCCTCCTCCTCC
+position of codon in peptide(bp)                        2608
+frameshifting position in codon repeat                shift4
+peptide hit by MS                           ASSSSPPSGRESAPLK
+repeatability                                           both
+type                                            trans-frame 
+Name: 233, dtype: object
+gene name                                          IRF2BPL
+frameshifting direction                               plus
+codon repeat                               GCCGCCGCCGCCGCC
+position of codon in peptide(bp)                       400
+frameshifting position in codon repeat              shift4
+peptide hit by MS                         EAAAAAAAAAAAAAPR
+repeatability                                      repeat2
+type                                          trans-frame 
+Name: 239, dtype: object
+gene name                                         IRF2BPL
+frameshifting direction                             minus
+codon repeat                              GCGGCGGCGGCGGCG
+position of codon in peptide(bp)                      364
+frameshifting position in codon repeat             shift1
+peptide hit by MS                          KEAGGGGGSSGGRR
+repeatability                                     repeat2
+type                                         trans-frame 
+Name: 240, dtype: object
+gene name                                         LEO1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                  1834
+frameshifting position in codon repeat          shift2
+peptide hit by MS                             EKQKMMIK
+repeatability                                  repeat2
+type                                      out_of_frame
+Name: 254, dtype: object
+gene name                                          LEO1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   2029
+frameshifting position in codon repeat           shift0
+peptide hit by MS                               KAEMMIK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 255, dtype: object
+gene name                                         MLLT4
+frameshifting direction                           minus
+codon repeat                                  GAGGAGGAG
+position of codon in peptide(bp)                   4258
+frameshifting position in codon repeat           shift1
+peptide hit by MS                          RLEGGAGEEAER
+repeatability                                      both
+type                                       trans-frame 
+Name: 285, dtype: object
+gene name                                              MLLT4
+frameshifting direction                                 plus
+codon repeat                              GAGGAGGAGGAGGAGGAG
+position of codon in peptide(bp)                        5182
+frameshifting position in codon repeat                shift3
+peptide hit by MS                                  FVAYNEEER
+repeatability                                        repeat1
+type                                            trans-frame 
+Name: 286, dtype: object
+gene name                                        NOLC1
+frameshifting direction                           plus
+codon repeat                              GAGGAGGAGGAG
+position of codon in peptide(bp)                   382
+frameshifting position in codon repeat          shift3
+peptide hit by MS                            SPVMMMMRR
+repeatability                                  repeat2
+type                                      out_of_frame
+Name: 321, dtype: object
+gene name                                           NOLC1
+frameshifting direction                              plus
+codon repeat                                    TCTTCTTCT
+position of codon in peptide(bp)                     1663
+frameshifting position in codon repeat             shift2
+peptide hit by MS                         KAESSNSSSLMTPVR
+repeatability                                        both
+type                                         trans-frame 
+Name: 322, dtype: object
+gene name                                            NPM1
+frameshifting direction                              plus
+codon repeat                                    GATGATGAT
+position of codon in peptide(bp)                      601
+frameshifting position in codon repeat             shift2
+peptide hit by MS                         MMMKMMMMMILMMRK
+repeatability                                        both
+type                                         out_of_frame
+Name: 328, dtype: object
+gene name                                          NPM1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    616
+frameshifting position in codon repeat           shift2
+peptide hit by MS                         MMMMMILMMRKLK
+repeatability                                   repeat2
+type                                       out_of_frame
+Name: 329, dtype: object
+gene name                                                 PAPPA
+frameshifting direction                                   minus
+codon repeat                              CCGCCGCCGCCGCCGCCGCCG
+position of codon in peptide(bp)                            283
+frameshifting position in codon repeat                   shift3
+peptide hit by MS                                  RASPPPAAAAGR
+repeatability                                           repeat1
+type                                               trans-frame 
+Name: 343, dtype: object
+gene name                                         PAPPA
+frameshifting direction                           minus
+codon repeat                                  CGGCGGCGG
+position of codon in peptide(bp)                    328
+frameshifting position in codon repeat           shift1
+peptide hit by MS                           RAAAAAGGEGR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 344, dtype: object
+gene name                                          PLEC
+frameshifting direction                            plus
+codon repeat                                  CAGCAGCAG
+position of codon in peptide(bp)                   4339
+frameshifting position in codon repeat           shift2
+peptide hit by MS                            EEAAVDAQQR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 366, dtype: object
+gene name                                               PLEC
+frameshifting direction                                minus
+codon repeat                                       CTGCTGCTG
+position of codon in peptide(bp)                         592
+frameshifting position in codon repeat                shift1
+peptide hit by MS                         LAAVVAANGGGVPGPAMR
+repeatability                                           both
+type                                            trans-frame 
+Name: 367, dtype: object
+gene name                                               PLEC
+frameshifting direction                                minus
+codon repeat                                       CTGCTGCTG
+position of codon in peptide(bp)                         592
+frameshifting position in codon repeat                shift1
+peptide hit by MS                         LAAVVAANGGGVPGPAMR
+repeatability                                           both
+type                                            trans-frame 
+Name: 367, dtype: object
+gene name                                          PLEC
+frameshifting direction                           minus
+codon repeat                                  GAGGAGGAG
+position of codon in peptide(bp)                   6784
+frameshifting position in codon repeat           shift2
+peptide hit by MS                          SQVEEGALLGAR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 368, dtype: object
+gene name                                       PRPF40A
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   2884
+frameshifting position in codon repeat           shift2
+peptide hit by MS                          RTLLEQLDDINK
+repeatability                                      both
+type                                       trans-frame 
+Name: 383, dtype: object
+gene name                                         PRPF40A
+frameshifting direction                              plus
+codon repeat                                 GATGATGATGAT
+position of codon in peptide(bp)                     2521
+frameshifting position in codon repeat             shift0
+peptide hit by MS                         RSGSDSMMMIAIQRK
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 384, dtype: object
+gene name                                               RBM28
+frameshifting direction                                  plus
+codon repeat                                        GATGATGAT
+position of codon in peptide(bp)                          805
+frameshifting position in codon repeat                 shift2
+peptide hit by MS                         EEEDMEEEENDDMTMMMMK
+repeatability                                         repeat2
+type                                             trans-frame 
+Name: 409, dtype: object
+gene name                                                 RBM28
+frameshifting direction                                    plus
+codon repeat                                       GATGATGATGAT
+position of codon in peptide(bp)                            811
+frameshifting position in codon repeat                   shift0
+peptide hit by MS                         REEEDMEEEENDDDDMMMMKK
+repeatability                                           repeat1
+type                                               trans-frame 
+Name: 410, dtype: object
+gene name                                                 RYR1
+frameshifting direction                                  minus
+codon repeat                                         ATGATGATG
+position of codon in peptide(bp)                         12079
+frameshifting position in codon repeat                  shift1
+peptide hit by MS                         LWDAVVGFLHVFAHMDDEAR
+repeatability                                          repeat2
+type                                              trans-frame 
+Name: 422, dtype: object
+gene name                                          RYR1
+frameshifting direction                           minus
+codon repeat                                  GAGGAGGAG
+position of codon in peptide(bp)                   8590
+frameshifting position in codon repeat           shift1
+peptide hit by MS                             EGEGGEDGK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 423, dtype: object
+gene name                                                SAMD1
+frameshifting direction                                  minus
+codon repeat                                      CCGCCGCCGCCG
+position of codon in peptide(bp)                           466
+frameshifting position in codon repeat                  shift3
+peptide hit by MS                         AGAAGGGGGGSRPSGAHPSR
+repeatability                                          repeat1
+type                                              out_of_frame
+Name: 425, dtype: object
+gene name                                        SAMD1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                   619
+frameshifting position in codon repeat          shift2
+peptide hit by MS                             MMMKMKMK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 426, dtype: object
+gene name                                        SAMD1
+frameshifting direction                           plus
+codon repeat                                 GAGGAGGAG
+position of codon in peptide(bp)                   619
+frameshifting position in codon repeat          shift2
+peptide hit by MS                             MMMKMKMK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 426, dtype: object
+gene name                                         SAMD1
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    781
+frameshifting position in codon repeat           shift1
+peptide hit by MS                           KEEEEDMMKMK
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 427, dtype: object
+gene name                                         SDAD1
+frameshifting direction                            plus
+codon repeat                                  ATGATGATG
+position of codon in peptide(bp)                   2059
+frameshifting position in codon repeat           shift2
+peptide hit by MS                            KNFMMCGIAR
+repeatability                                      both
+type                                       trans-frame 
+Name: 436, dtype: object
+gene name                                            SDAD1
+frameshifting direction                               plus
+codon repeat                                     GAGGAGGAG
+position of codon in peptide(bp)                      1612
+frameshifting position in codon repeat              shift1
+peptide hit by MS                         RMLMVNGLMCNTLPMK
+repeatability                                      repeat2
+type                                          out_of_frame
+Name: 437, dtype: object
+gene name                                           SF1
+frameshifting direction                           minus
+codon repeat                               CCACCACCACCA
+position of codon in peptide(bp)                   1384
+frameshifting position in codon repeat           shift2
+peptide hit by MS                         VHPAMATAAGGCR
+repeatability                                      both
+type                                       out_of_frame
+Name: 451, dtype: object
+gene name                                             SF1
+frameshifting direction                             minus
+codon repeat                              CCGCCGCCGCCGCCG
+position of codon in peptide(bp)                     1546
+frameshifting position in codon repeat             shift4
+peptide hit by MS                                YDDYHHER
+repeatability                                        both
+type                                         out_of_frame
+Name: 452, dtype: object
+gene name                                        SFSWAP
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   1915
+frameshifting position in codon repeat           shift1
+peptide hit by MS                            KLDDDSDMMK
+repeatability                                      both
+type                                       trans-frame 
+Name: 464, dtype: object
+gene name                                        SFSWAP
+frameshifting direction                            plus
+codon repeat                               GATGATGATGAT
+position of codon in peptide(bp)                    958
+frameshifting position in codon repeat           shift0
+peptide hit by MS                         SGVSSDNEMMMMK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 465, dtype: object
+gene name                                        SPTBN4
+frameshifting direction                           minus
+codon repeat                                  GCGGCGGCG
+position of codon in peptide(bp)                   2383
+frameshifting position in codon repeat           shift1
+peptide hit by MS                             LEEAGGAAR
+repeatability                                   repeat2
+type                                       trans-frame 
+Name: 484, dtype: object
+gene name                                       SPTBN4
+frameshifting direction                           plus
+codon repeat                                 GCGGCGGCG
+position of codon in peptide(bp)                  6769
+frameshifting position in codon repeat          shift2
+peptide hit by MS                          TGPGRGTGPSR
+repeatability                                  repeat2
+type                                      out_of_frame
+Name: 485, dtype: object
+gene name                                        SUPT6H
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                    205
+frameshifting position in codon repeat           shift1
+peptide hit by MS                           FVEEEDMMRRR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 498, dtype: object
+gene name                                       SUPT6H
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                   397
+frameshifting position in codon repeat          shift2
+peptide hit by MS                            TMTRRNMAR
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 499, dtype: object
+gene name                                                 SV2A
+frameshifting direction                                   plus
+codon repeat                                         GAGGAGGAG
+position of codon in peptide(bp)                           253
+frameshifting position in codon repeat                  shift2
+peptide hit by MS                         MMMMTSLLPVMVITEEKGPR
+repeatability                                             both
+type                                              out_of_frame
+Name: 500, dtype: object
+gene name                                                  SV2A
+frameshifting direction                                    plus
+codon repeat                                       GATGATGATGAT
+position of codon in peptide(bp)                            256
+frameshifting position in codon repeat                   shift0
+peptide hit by MS                         FEEEMMMMTSLLPVMVITEEK
+repeatability                                           repeat1
+type                                               trans-frame 
+Name: 501, dtype: object
+gene name                                           TCERG1
+frameshifting direction                               plus
+codon repeat                                     CCTCCTCCT
+position of codon in peptide(bp)                       427
+frameshifting position in codon repeat              shift2
+peptide hit by MS                         RPPFMPPPMSSMPPLR
+repeatability                                      repeat2
+type                                          trans-frame 
+Name: 515, dtype: object
+gene name                                        TCERG1
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                   1642
+frameshifting position in codon repeat           shift2
+peptide hit by MS                             KEEEMTEEK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 516, dtype: object
+gene name                                         TCOF1
+frameshifting direction                            plus
+codon repeat                                  AGCAGCAGC
+position of codon in peptide(bp)                   2989
+frameshifting position in codon repeat           shift0
+peptide hit by MS                           KASMAGAAAAR
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 518, dtype: object
+gene name                                           TCOF1
+frameshifting direction                             minus
+codon repeat                              AAGAAGAAGAAGAAG
+position of codon in peptide(bp)                     4069
+frameshifting position in codon repeat             shift0
+peptide hit by MS                              SQEEEEAGGR
+repeatability                                     repeat2
+type                                         trans-frame 
+Name: 519, dtype: object
+gene name                                         TNRC6B
+frameshifting direction                             plus
+codon repeat                                   AACAACAAC
+position of codon in peptide(bp)                    2209
+frameshifting position in codon repeat            shift1
+peptide hit by MS                         NTTLPTGEEDDLMK
+repeatability                                    repeat1
+type                                        trans-frame 
+Name: 536, dtype: object
+gene name                                                   TNRC6B
+frameshifting direction                                      minus
+codon repeat                              CAGCAGCAGCAGCAGCAGCAGCAG
+position of codon in peptide(bp)                              3736
+frameshifting position in codon repeat                      shift2
+peptide hit by MS                                MVSALQQAAAAAAEAAR
+repeatability                                              repeat2
+type                                                  trans-frame 
+Name: 537, dtype: object
+gene name                                                   TNRC6B
+frameshifting direction                                       plus
+codon repeat                              CAGCAGCAGCAGCAGCAGCAGCAG
+position of codon in peptide(bp)                              3751
+frameshifting position in codon repeat                      shift7
+peptide hit by MS                                    MVSALQQQQQQQR
+repeatability                                              repeat2
+type                                                  trans-frame 
+Name: 538, dtype: object
+gene name                                          TNRC6B
+frameshifting direction                              plus
+codon repeat                                    GGAGGAGGA
+position of codon in peptide(bp)                     2230
+frameshifting position in codon repeat             shift1
+peptide hit by MS                         NNNSSNWGEDDLMKR
+repeatability                                     repeat1
+type                                         trans-frame 
+Name: 539, dtype: object
+gene name                                          TPR
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                  5965
+frameshifting position in codon repeat          shift2
+peptide hit by MS                            MRKMMMMMK
+repeatability                                     both
+type                                      out_of_frame
+Name: 543, dtype: object
+gene name                                               TPR
+frameshifting direction                                plus
+codon repeat                                GATGATGATGATGAT
+position of codon in peptide(bp)                       6022
+frameshifting position in codon repeat               shift4
+peptide hit by MS                         ELVVPMAMMVMKLMMLR
+repeatability                                       repeat1
+type                                           out_of_frame
+Name: 544, dtype: object
+gene name                                           TTN
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                  29302
+frameshifting position in codon repeat           shift2
+peptide hit by MS                              RAYTLEEK
+repeatability                                   repeat1
+type                                       trans-frame 
+Name: 557, dtype: object
+gene name                                           TTN
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                  31333
+frameshifting position in codon repeat           shift2
+peptide hit by MS                              VEENTELK
+repeatability                                      both
+type                                       trans-frame 
+Name: 558, dtype: object
+gene name                                           TTN
+frameshifting direction                            plus
+codon repeat                                  GAAGAAGAA
+position of codon in peptide(bp)                  31333
+frameshifting position in codon repeat           shift2
+peptide hit by MS                              VEENTELK
+repeatability                                      both
+type                                       trans-frame 
+Name: 558, dtype: object
+gene name                                          TTN
+frameshifting direction                           plus
+codon repeat                                 GAAGAAGAA
+position of codon in peptide(bp)                 29302
+frameshifting position in codon repeat          shift2
+peptide hit by MS                          NMRNMKNMIIK
+repeatability                                  repeat1
+type                                      out_of_frame
+Name: 559, dtype: object
+gene name                                          UBR4
+frameshifting direction                            plus
+codon repeat                                  GATGATGAT
+position of codon in peptide(bp)                   8299
+frameshifting position in codon repeat           shift0
+peptide hit by MS                          KDDDDMMMQMRK
+repeatability                                      both
+type                                       trans-frame 
+Name: 571, dtype: object
+gene name                                         UBR4
+frameshifting direction                           plus
+codon repeat                                 GATGATGAT
+position of codon in peptide(bp)                  8287
+frameshifting position in codon repeat          shift0
+peptide hit by MS                          MMMTMMMQMRK
+repeatability                                     both
+type                                      out_of_frame
+Name: 572, dtype: object
+human genes (NP only, longest per gene): 19458
+genes with usable location: 19325, skipped (bad location): 33, skipped (unplaced scaffold): 100
+0.6882154793002887 0.6455152712527786
+PhyloP: 119 pairs, mean frameshift=0.6455, mean control=0.6882, median frameshift=0.6919, median control=0.7716
+paired t-test p=0.0653; Wilcoxon (frameshift < control) p=0.00647
