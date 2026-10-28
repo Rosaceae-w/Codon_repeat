@@ -6,6 +6,12 @@ import matplotlib.pyplot as plt
 from statistics import mean, median
 
 
+def sci(x, digits=1):
+    # mathtext "3.2 \times 10^{-5}" instead of "3.2e-05"
+    mant, exp = f'{x:.{digits}e}'.split('e')
+    return rf'{mant} \times 10^{{{int(exp)}}}'
+
+
 
 # first to compare the frequency of repeats in essential and non-essential genes' coding region - noncoding region
 
@@ -74,10 +80,10 @@ for threshold in [0.5, 1, 5]:
 
     mwu=stats.mannwhitneyu(list(df_5[f'minus_{threshold}%']),list(df_5_non[f'minus_{threshold}%']),alternative='less')
     print(f'threshold={threshold}: mean essential={mean(df_5[f"minus_{threshold}%"])}, mean nonessential={mean(df_5_non[f"minus_{threshold}%"])}, p={mwu[1]}')
-
+    p_val = mwu[1]
     data = [list(df_5[f'minus_{threshold}%']), list(df_5_non[f'minus_{threshold}%'])]
     labels = ['Essential', 'Non-essential']
-
+    '''
     # boxplot
     fig, ax = plt.subplots(figsize=(6, 6))
     bp = ax.boxplot(
@@ -100,7 +106,7 @@ for threshold in [0.5, 1, 5]:
         patch.set_facecolor('white')
 
     ax.axhline(y=0, color='black', linewidth=1)
-    ax.set_ylabel('Codon frequency in coding regions minus that in noncoding regions', fontsize=13)
+    ax.set_ylabel('Codon repeat frequency in coding regions\nminus that in noncoding regions', fontsize=13)
     ax.tick_params(axis='x', labelsize=12)
     ax.tick_params(axis='y', labelsize=12)
     ax.set_ylim(-3.5, 3.9)
@@ -109,14 +115,14 @@ for threshold in [0.5, 1, 5]:
     y_max, h = 3.3, 0.1
     ax.plot([1, 1, 2, 2], [y_max, y_max + h, y_max + h, y_max], color='black', linewidth=1.2)
 
-    p_val = mwu[1]
-    ax.text(1.5, y_max + h + 0.03, rf'$P = {p_val:.1e}$', ha='center', va='bottom', fontsize=12)
+    
+    ax.text(1.5, y_max + h + 0.03, rf'$P = {sci(p_val)}$', ha='center', va='bottom', fontsize=12)
 
     plt.tight_layout()
     plt.savefig(f'../figures/Fig3/boxplot_essential_nonessential_{threshold}%_3.svg')
     plt.savefig(f'../figures/Fig3/boxplot_essential_nonessential_{threshold}%_3.png', dpi=300)
     plt.close(fig)
-
+    '''
     # violinplot
     combined = np.concatenate(data)
     lo, hi = np.min(combined), np.max(combined)
@@ -146,17 +152,17 @@ for threshold in [0.5, 1, 5]:
     ax.tick_params(axis='y', labelsize=12)
 
     ax.axhline(y=0, color='black', linewidth=1)
-    ax.set_ylabel('Codon frequency in coding regions minus that in noncoding regions', fontsize=13)
+    ax.set_ylabel('Codon repeat frequency in coding regions\nminus that in noncoding regions', fontsize=13)
     ax.set_ylim(y_low, y_high)
     ax.grid(axis='y', alpha=0.3)
 
     y_top = y_high - 0.15 * (y_high - y_low)
     vy, vh = y_top, 0.08 * (y_high - y_low)
     ax.plot([1, 1, 2, 2], [vy, vy + vh, vy + vh, vy], color='black', linewidth=1.2)
-    ax.text(1.5, vy + vh + 0.02 * (y_high - y_low), rf'$P = {p_val:.1e}$', ha='center', va='bottom', fontsize=12)
+    ax.text(1.5, vy + vh + 0.02 * (y_high - y_low), rf'$P = {sci(p_val)}$', ha='center', va='bottom', fontsize=12)
 
     plt.tight_layout()
-    plt.savefig(f'../figures/Fig3/violin_essential_nonessential_{threshold}%_3.svg')
-    plt.savefig(f'../figures/Fig3/violin_essential_nonessential_{threshold}%_3.png', dpi=300)
+    plt.savefig(f'../figures/essential_genes/violin_essential_nonessential_{threshold}%_3.svg')
+    plt.savefig(f'../figures/essential_genes/violin_essential_nonessential_{threshold}%_3.png', dpi=300)
     plt.close(fig)
 

@@ -363,7 +363,8 @@ else:  # PhyloP is unbounded (negative = faster than neutral), so place the brac
 
 # significance bracket, now safely below the top of the frame
 ax.plot([1, 1, 2, 2], [y_bar, y_bar + h, y_bar + h, y_bar], color='black', linewidth=1.2)
-ax.text(1.5, y_bar + h + 0.01, rf'$P = {p_val:.1e}$', ha='center', va='bottom', fontsize=14)
+mant, exp = f'{p_val:.1e}'.split('e')
+ax.text(1.5, y_bar + h + 0.01, rf'$P = {mant} \times 10^{{{int(exp)}}}$', ha='center', va='bottom', fontsize=14)
 
 plt.tight_layout()
 plt.savefig(f'../figures/PhyloP/violinplot_{TRACK}_optionB_5.png', dpi=300)

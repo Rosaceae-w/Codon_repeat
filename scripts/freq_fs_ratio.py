@@ -5,6 +5,12 @@ import numpy as np
 from scipy import stats
 
 
+def sci(x, digits=1):
+    # mathtext "3.2 \times 10^{-5}" instead of "3.2e-05"
+    mant, exp = f'{x:.{digits}e}'.split('e')
+    return rf'{mant} \times 10^{{{int(exp)}}}'
+
+
 codontable = {
     'ATA': 'I', 'ATC': 'I', 'ATT': 'I', 'ATG': 'M',
     'ACA': 'T', 'ACC': 'T', 'ACG': 'T', 'ACT': 'T',
@@ -58,10 +64,10 @@ print('without outliers (n=%d): spearman'%len(df_no_out),scc_no_out,'pearson',pc
 plt.figure(figsize=(8,6))
 plt.scatter(np.log10(df['fs_ratio']/100),df['minus'],color='black',s=9,alpha=0.7)
 plt.xlabel(r'$\log_{10}$(frameshifting ratio)',fontsize=15)
-plt.ylabel('Codon frequency in coding regions\nminus in noncoding regions',fontsize=15)
+plt.ylabel('Codon repeat frequency in coding regions\nminus that in noncoding regions',fontsize=15)
 plt.tick_params(labelsize=13)
 #plt.text(10, 0.031,f'pcc={pcc[0]:.2f}, p_val={pcc[1]:.3f}', fontsize=10)
-plt.text(-3.5, -0.2, f'ρ = {scc[0]:.2f}, $P$ = {scc[1]:.3f}', fontsize=15)
+plt.text(-3.5, -0.2, f'ρ = {scc[0]:.2f}, $P$ = ${sci(scc[1], 2)}$', fontsize=15)
 plt.tight_layout()
 plt.savefig('../figures/fs_ratio/fs_ratio_freq_all_repeats_kb_reset_5.svg')
 plt.savefig('../figures/fs_ratio/fs_ratio_freq_all_repeats_kb_reset_5.png')

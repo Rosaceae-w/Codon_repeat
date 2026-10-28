@@ -87,7 +87,7 @@ def find_codon_repeats_bins(sequence, name, threshold):
             consecutive_count += 1
             # Handle repeat at end of sequence
             if i == len(codons) - 1:
-                if consecutive_count >= 3:
+                if consecutive_count >= 3 and fs_ratio.get(prev_codon, 0) > threshold:
                     record_repeat(i - consecutive_count + 1, i + 1, prev_codon)
         else:
             if fs_ratio.get(prev_codon, 0) > threshold:
@@ -129,35 +129,6 @@ with open('../data/fs_ratio.pkl','rb') as f:
     fs_ratio=pickle.load(f)
 
 
-threshold=5
-print('coding')
-coding_repeat = {}
-coding_bins = {}  # Store bins_result for each gene
-for gene in cds_dict.keys():
-    if gene not in signal_peptide_genes:
-        sequence = cds_dict[gene]
-        try:
-            categorized_repeats, repeats, bins_result = find_codon_repeats_bins(sequence, gene, threshold)
-            coding_repeat[gene] = repeats
-            coding_bins[gene] = bins_result
-        except:
-            print(gene)
-            continue
-
-print('noncoding')
-non_coding_repeat = {}
-non_coding_bins = {}  # Store bins_result for each gene
-for gene in non_cds_dict.keys():
-    if gene not in signal_peptide_genes:
-        sequence = non_cds_dict[gene]
-        try:
-            categorized_repeats, repeats, bins_result = find_codon_repeats_bins(sequence, gene, threshold)
-            non_coding_repeat[gene] = repeats
-            non_coding_bins[gene] = bins_result
-        except:
-            print(gene)
-            continue
-
 num_bins = 25
 
 def aggregate_bins(bins_dict):
@@ -194,32 +165,62 @@ def aggregate_paired_diff_bins(coding_dict, noncoding_dict):
 
 
 
-mean_coding, sem_coding = aggregate_bins(coding_bins)
-mean_noncoding, sem_noncoding = aggregate_bins(non_coding_bins)
+for threshold in [0.5, 1, 5]:
+    print('coding')
+    coding_repeat = {}
+    coding_bins = {}  # Store bins_result for each gene
+    for gene in cds_dict.keys():
+        if gene not in signal_peptide_genes:
+            sequence = cds_dict[gene]
+            try:
+                categorized_repeats, repeats, bins_result = find_codon_repeats_bins(sequence, gene, threshold)
+                coding_repeat[gene] = repeats
+                coding_bins[gene] = bins_result
+            except:
+                print(gene)
+                continue
 
-bin_labels = [f"{(b + 0.5) * 0.04:.2f}" for b in range(num_bins)]
-x = np.arange(num_bins)
+    print('noncoding')
+    non_coding_repeat = {}
+    non_coding_bins = {}  # Store bins_result for each gene
+    for gene in non_cds_dict.keys():
+        if gene not in signal_peptide_genes:
+            sequence = non_cds_dict[gene]
+            try:
+                categorized_repeats, repeats, bins_result = find_codon_repeats_bins(sequence, gene, threshold)
+                non_coding_repeat[gene] = repeats
+                non_coding_bins[gene] = bins_result
+            except:
+                print(gene)
+                continue
 
-rho_coding, p_coding = stats.spearmanr(x, mean_coding)
-rho_noncoding, p_noncoding = stats.spearmanr(x, mean_noncoding)
+
+    mean_coding, sem_coding = aggregate_bins(coding_bins)
+    mean_noncoding, sem_noncoding = aggregate_bins(non_coding_bins)
+
+    bin_labels = [f"{(b + 0.5) * 0.04:.2f}" for b in range(num_bins)]
+    x = np.arange(num_bins)
+
+    rho_coding, p_coding = stats.spearmanr(x, mean_coding)
+    rho_noncoding, p_noncoding = stats.spearmanr(x, mean_noncoding)
 
 
-diff_freq, sem_diff = aggregate_paired_diff_bins(coding_bins, non_coding_bins)
+    diff_freq, sem_diff = aggregate_paired_diff_bins(coding_bins, non_coding_bins)
 
 
 
-fig2a, ax2a = plt.subplots(figsize=(8, 6))
-ax2a.errorbar(x, diff_freq, yerr=sem_diff, fmt="none", ecolor="black", elinewidth=1, capsize=3, zorder=1)
-ax2a.scatter(x, diff_freq, color="mediumpurple", alpha=0.8, edgecolor="black", zorder=2)
+    fig2a, ax2a = plt.subplots(figsize=(8, 6))
+    ax2a.errorbar(x, diff_freq, yerr=sem_diff, fmt="none", ecolor="black", elinewidth=1, capsize=3, zorder=1)
+    ax2a.scatter(x, diff_freq, color="mediumpurple", alpha=0.8, edgecolor="black", zorder=2)
 
-ax2a.axhline(0, color="gray", linewidth=0.8, linestyle="--")
-ax2a.set_xticks(x)
-ax2a.set_xticklabels(bin_labels, rotation=45, ha="right")
-ax2a.tick_params(labelsize=13)
-ax2a.set_xlabel("Relative position in coding sequences", fontsize=15)
-ax2a.set_ylabel("Mean codon frequency difference\nbetween coding and noncoding regions", fontsize=15)
+    ax2a.axhline(0, color="gray", linewidth=0.8, linestyle="--")
+    ax2a.set_xticks(x)
+    ax2a.set_xticklabels(bin_labels, rotation=45, ha="right")
+    ax2a.tick_params(labelsize=13)
+    ax2a.set_xlabel("Relative position in coding sequences", fontsize=15)
+    ax2a.set_ylabel("Codon repeat frequency in coding regions\nminus that in noncoding regions", fontsize=15)
 
-plt.tight_layout()
-plt.savefig(f'../figures/repeat_site/freq_diff_scatter_per_bin_vs_position_{threshold}p_codon_excluding_signal_peptides.svg')
-plt.savefig(f'../figures/repeat_site/freq_diff_scatter_per_bin_vs_position_{threshold}p_codon_excluding_signal_peptides.png', dpi=300)
-
+    plt.tight_layout()
+    plt.savefig(f'../figures/repeat_site/freq_diff_scatter_per_bin_vs_position_{threshold}p_codon_excluding_signal_peptides.svg')
+    plt.savefig(f'../figures/repeat_site/freq_diff_scatter_per_bin_vs_position_{threshold}p_codon_excluding_signal_peptides.png', dpi=300)
+    plt.close(fig2a)
