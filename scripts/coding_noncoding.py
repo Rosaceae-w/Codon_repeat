@@ -43,11 +43,6 @@ with open('../data/coding_repeat_reset_2.pkl','rb') as file:
 with open('../data/non_coding_repeat_reset_2.pkl','rb') as file:
     non_coding_repeat=pickle.load(file)
 
-with open('../data/pure_codon_repeat_coding_2.pkl','rb') as file:
-    pure_codon_repeat_coding=pickle.load(file)
-
-with open('../data/pure_codon_repeat_noncoding_2.pkl','rb') as file:
-    pure_codon_repeat_noncoding=pickle.load(file)
 
 
 
@@ -105,29 +100,22 @@ non_cds_len=920316959
 df_2['coding_freq_per_kb'] = df_2['coding'] / (cds_len / 1000)
 df_2['noncoding_freq_per_kb'] = df_2['noncoding'] / (non_cds_len / 1000)
 
-cds_avg_len=1758.7786514544146
-non_cds_avg_len=47955.654160804545
-
 df_select_5=df_2[df_2['Avg_fs_ratio']>5]
 significance = {}
-for codon in codontable.keys():
-    if codontable[codon]=='*':
-        continue
-    else:
-        coding_total=sum(pure_codon_repeat_coding[codon][i*3] for i in range(3,7))
-        noncoding_total=sum(pure_codon_repeat_noncoding[codon][i*3] for i in range(3,7))
-        observed=[coding_total,noncoding_total]
-        expected=[(coding_total+noncoding_total)*cds_avg_len/(cds_avg_len+non_cds_avg_len),(coding_total+noncoding_total)*non_cds_avg_len/(cds_avg_len+non_cds_avg_len)]
-        chi,p=chisquare(observed,expected)
-        significance[codon]=p
+# test the same repeat counts and total lengths that are plotted
+for i in df_2.index:
+    observed=[df_2['coding'][i],df_2['noncoding'][i]]
+    total=sum(observed)
+    expected=[total*cds_len/(cds_len+non_cds_len),total*non_cds_len/(cds_len+non_cds_len)]
+    chi,p=chisquare(observed,expected)
+    significance[df_2['codon_type'][i]]=p
             #table=np.array([[coding_codon_repeat[motif],non_coding_codon_repeat[motif]], [(coding_codon_repeat[motif]+non_coding_codon_repeat[motif])*cds_avg_len/(cds_avg_len+non_cds_avg_len),(coding_codon_repeat[motif]+non_coding_codon_repeat[motif])*non_cds_avg_len/(cds_avg_len+non_cds_avg_len)]])
             #res = fisher_exact(table, alternative='two-sided')
             #significance[motif]=res.pvalue
 
-significant_codons=[]
-for key in significance.keys():
-    if significance[key]<0.05:
-        significant_codons.append(key)
+# BH (FDR) correction across the 61 codon tests
+q_values=stats.false_discovery_control(list(significance.values()))
+significant_codons=[key for key, q in zip(significance.keys(), q_values) if q<0.05]
 
 count=0
 c_count = 0
